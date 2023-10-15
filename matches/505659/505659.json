@@ -1,0 +1,56 @@
+[
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975300",
+    "homeTeam": "Torre Sc",
+    "stadium": "Campo Das Monções",
+    "awayTeam": "Cc \"Os Torreenses\"",
+    "date": "24 set",
+    "hour": "",
+    "score": "6 - 2"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975295",
+    "homeTeam": "Ad \"Os Limianos\" \"A\"",
+    "stadium": "Campo Cruzeiro",
+    "awayTeam": "Neves Fc \"A\"",
+    "date": "24 set",
+    "hour": "",
+    "score": "9 - 1"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975297",
+    "homeTeam": "Arc Guilhadeses",
+    "stadium": "Campo Padre Arieiro",
+    "awayTeam": "Âncora-Praia Fc",
+    "date": "24 set",
+    "hour": "",
+    "score": "3 - 3"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975296",
+    "homeTeam": "Cd Cerveira",
+    "stadium": "Estádio Municipal Rafael Pedreira",
+    "awayTeam": "Ud Moreira \"A\"",
+    "date": "24 set",
+    "hour": "",
+    "score": "0 - 6"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975298",
+    "homeTeam": "Sc Vianense \"B\"",
+    "stadium": "Campo Beira Mar",
+    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
+    "date": "5 out",
+    "hour": "",
+    "score": "1 - 2"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Adc Correlhã",
+    "stadium": "Campo Municipal Da Correlhã",
+    "awayTeam": "Ad Barroselas \"B\"",
+    "date": "10 dez",
+    "hour": "10:00",
+    "score": " - - -"
+  }
+]
