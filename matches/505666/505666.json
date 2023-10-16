@@ -1,6 +1,15 @@
 [
   {
     "gameLink": "",
+    "homeTeam": "Adc Correlhã",
+    "stadium": "Campo Municipal Da Correlhã",
+    "awayTeam": "Neves Fc \"A\"",
+    "date": "12 nov",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
     "homeTeam": "Ad Barroselas \"B\"",
     "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
     "awayTeam": "Âncora-Praia Fc",
@@ -22,15 +31,6 @@
     "homeTeam": "Arc Guilhadeses",
     "stadium": "Campo Padre Arieiro",
     "awayTeam": "Cd Cerveira",
-    "date": "12 nov",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Adc Correlhã",
-    "stadium": "Campo Municipal Da Correlhã",
-    "awayTeam": "Neves Fc \"A\"",
     "date": "12 nov",
     "hour": "10:00",
     "score": " - - -"

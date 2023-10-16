@@ -1,18 +1,9 @@
 [
   {
     "gameLink": "",
-    "homeTeam": "Ud Moreira \"A\"",
-    "stadium": "Campo Tomada",
-    "awayTeam": "Cc \"Os Torreenses\"",
-    "date": "18 fev",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Ad \"Os Limianos\" \"A\"",
-    "stadium": "Campo Cruzeiro",
-    "awayTeam": "Sc Vianense \"B\"",
+    "homeTeam": "Cd Cerveira",
+    "stadium": "Estádio Municipal Rafael Pedreira",
+    "awayTeam": "Arc Guilhadeses",
     "date": "18 fev",
     "hour": "10:00",
     "score": " - - -"
@@ -28,9 +19,18 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Cd Cerveira",
-    "stadium": "Estádio Municipal Rafael Pedreira",
-    "awayTeam": "Arc Guilhadeses",
+    "homeTeam": "Ad \"Os Limianos\" \"A\"",
+    "stadium": "Campo Cruzeiro",
+    "awayTeam": "Sc Vianense \"B\"",
+    "date": "18 fev",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Ud Moreira \"A\"",
+    "stadium": "Campo Tomada",
+    "awayTeam": "Cc \"Os Torreenses\"",
     "date": "18 fev",
     "hour": "10:00",
     "score": " - - -"

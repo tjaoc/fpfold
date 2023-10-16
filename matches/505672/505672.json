@@ -1,6 +1,24 @@
 [
   {
     "gameLink": "",
+    "homeTeam": "Ad Barroselas \"B\"",
+    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
+    "awayTeam": "Arc Guilhadeses",
+    "date": "14 jan",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Ud Moreira \"A\"",
+    "stadium": "Campo Tomada",
+    "awayTeam": "Neves Fc \"A\"",
+    "date": "14 jan",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
     "homeTeam": "Âncora-Praia Fc",
     "stadium": "Campo Paulino Velho Gomes",
     "awayTeam": "Ad \"Os Limianos\" \"A\"",
@@ -10,9 +28,9 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Ad Barroselas \"B\"",
-    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
-    "awayTeam": "Arc Guilhadeses",
+    "homeTeam": "Cc \"Os Torreenses\"",
+    "stadium": "Campo Da Cruz",
+    "awayTeam": "Sc Vianense \"B\"",
     "date": "14 jan",
     "hour": "10:00",
     "score": " - - -"
@@ -31,24 +49,6 @@
     "homeTeam": "Adc Correlhã",
     "stadium": "Campo Municipal Da Correlhã",
     "awayTeam": "Torre Sc",
-    "date": "14 jan",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Cc \"Os Torreenses\"",
-    "stadium": "Campo Da Cruz",
-    "awayTeam": "Sc Vianense \"B\"",
-    "date": "14 jan",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Ud Moreira \"A\"",
-    "stadium": "Campo Tomada",
-    "awayTeam": "Neves Fc \"A\"",
     "date": "14 jan",
     "hour": "10:00",
     "score": " - - -"

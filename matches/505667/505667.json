@@ -10,27 +10,9 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Torre Sc",
-    "stadium": "Campo Das Monções",
-    "awayTeam": "Cd Cerveira",
-    "date": "19 nov",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
     "homeTeam": "Ud Moreira \"A\"",
     "stadium": "Campo Tomada",
     "awayTeam": "Adc Correlhã",
-    "date": "19 nov",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
-    "stadium": "Campo Beira Mar",
-    "awayTeam": "Ad Barroselas \"B\"",
     "date": "19 nov",
     "hour": "10:00",
     "score": " - - -"
@@ -49,6 +31,24 @@
     "homeTeam": "Âncora-Praia Fc",
     "stadium": "Campo Paulino Velho Gomes",
     "awayTeam": "Cc \"Os Torreenses\"",
+    "date": "19 nov",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Torre Sc",
+    "stadium": "Campo Das Monções",
+    "awayTeam": "Cd Cerveira",
+    "date": "19 nov",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
+    "stadium": "Campo Beira Mar",
+    "awayTeam": "Ad Barroselas \"B\"",
     "date": "19 nov",
     "hour": "10:00",
     "score": " - - -"

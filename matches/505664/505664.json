@@ -1,15 +1,6 @@
 [
   {
     "gameLink": "",
-    "homeTeam": "Cc \"Os Torreenses\"",
-    "stadium": "Campo Da Cruz",
-    "awayTeam": "Ad \"Os Limianos\" \"A\"",
-    "date": "29 out",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
     "homeTeam": "Sc Vianense \"B\"",
     "stadium": "Campo Visconde Barrosa",
     "awayTeam": "Arc Guilhadeses",
@@ -19,18 +10,18 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Adc Correlhã",
-    "stadium": "Campo Municipal Da Correlhã",
-    "awayTeam": "Cd Cerveira",
+    "homeTeam": "Cc \"Os Torreenses\"",
+    "stadium": "Campo Da Cruz",
+    "awayTeam": "Ad \"Os Limianos\" \"A\"",
     "date": "29 out",
     "hour": "10:00",
     "score": " - - -"
   },
   {
     "gameLink": "",
-    "homeTeam": "Ad Barroselas \"B\"",
-    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
-    "awayTeam": "Neves Fc \"A\"",
+    "homeTeam": "Adc Correlhã",
+    "stadium": "Campo Municipal Da Correlhã",
+    "awayTeam": "Cd Cerveira",
     "date": "29 out",
     "hour": "10:00",
     "score": " - - -"
@@ -49,6 +40,15 @@
     "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
     "stadium": "Campo Beira Mar",
     "awayTeam": "Ud Moreira \"A\"",
+    "date": "29 out",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Ad Barroselas \"B\"",
+    "stadium": "Complexo Desportivo Barroselas - Campo 2",
+    "awayTeam": "Neves Fc \"A\"",
     "date": "29 out",
     "hour": "10:00",
     "score": " - - -"
