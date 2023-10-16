@@ -10,18 +10,9 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Neves Fc \"A\"",
-    "stadium": "Campo Alferes Pinto Ribeiro - N.º 2",
-    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
-    "date": "22 out",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Ud Moreira \"A\"",
-    "stadium": "Campo Tomada",
-    "awayTeam": "Âncora-Praia Fc",
+    "homeTeam": "Torre Sc",
+    "stadium": "Campo Das Monções",
+    "awayTeam": "Sc Vianense \"B\"",
     "date": "22 out",
     "hour": "10:00",
     "score": " - - -"
@@ -37,18 +28,27 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Torre Sc",
-    "stadium": "Campo Das Monções",
-    "awayTeam": "Sc Vianense \"B\"",
+    "homeTeam": "Arc Guilhadeses",
+    "stadium": "Campo Padre Arieiro",
+    "awayTeam": "Adc Correlhã",
     "date": "22 out",
     "hour": "10:00",
     "score": " - - -"
   },
   {
     "gameLink": "",
-    "homeTeam": "Arc Guilhadeses",
-    "stadium": "Campo Padre Arieiro",
-    "awayTeam": "Adc Correlhã",
+    "homeTeam": "Ud Moreira \"A\"",
+    "stadium": "Campo Tomada",
+    "awayTeam": "Âncora-Praia Fc",
+    "date": "22 out",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Neves Fc \"A\"",
+    "stadium": "Campo Alferes Pinto Ribeiro - N.º 2",
+    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
     "date": "22 out",
     "hour": "10:00",
     "score": " - - -"

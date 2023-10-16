@@ -1,9 +1,9 @@
 {
-  "homeTeamLogoSrc": "/Club/Logo/1426",
+  "homeTeamLogo": "/Club/Logo/1426",
   "homeTeamName": "Torre Sc",
   "score": "6 - 2",
   "awayTeamName": "Cc \"Os Torreenses\"",
-  "awayTeamLogoSrc": "/Club/Logo/1014",
+  "awayTeamLogo": "/Club/Logo/1014",
   "infoTimePlace": "Data: 24-09-2023 Hora: 09:00 Estádio: Campo Das Monções",
   "homeTeamInfoGoals": "",
   "awayTeamInfoGoals": ""

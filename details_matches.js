@@ -2,21 +2,20 @@ const axios = require("axios");
 const { parse } = require("node-html-parser");
 const fs = require("fs").promises;
 const path = require("path");
-const BASE_URL = require('./config.js');
+const { BASE_URL } = require("./config");
 
-const downloadAndSaveImage = async (imageUrl, imagePath) => {
+const downloadImage = async (imageUrl, imagePath) => {
     try {
         const response = await axios.get(imageUrl, { responseType: "arraybuffer" });
+        await fs.mkdir(path.dirname(imagePath), { recursive: true });
         await fs.writeFile(imagePath, response.data);
+        console.log(`Image downloaded: ${imagePath}`);
     } catch (error) {
-        console.error(`Error downloading and saving image from ${imageUrl}:`, error);
+        console.error(`Error downloading image: ${imageUrl}`, error);
     }
 };
-
 const saveDetails = async (folderRoot) => {
     const matchesFolderPath = path.join(__dirname, "matches");
-    const teamsLogosFolderPath = path.join(folderRoot, "..", "teams_logos");
-
     try {
         const files = await fs.readdir(matchesFolderPath, { withFileTypes: true });
 
@@ -24,9 +23,9 @@ const saveDetails = async (folderRoot) => {
             const filePath = path.join(matchesFolderPath, file.name);
 
             if (file.isFile() && file.name.endsWith(".json")) {
-                await processDetails(filePath, folderRoot, teamsLogosFolderPath, matchesFolderPath);
+                await processDetails(filePath, folderRoot, matchesFolderPath);
             } else if (file.isDirectory()) {
-                await processSubdirectory(filePath, folderRoot, teamsLogosFolderPath, matchesFolderPath);
+                await processSubdirectory(filePath, folderRoot, matchesFolderPath);
             }
         }
     } catch (error) {
@@ -34,9 +33,7 @@ const saveDetails = async (folderRoot) => {
     }
 };
 
-
-
-const processSubdirectory = async (directoryPath, folderRoot, teamsLogosFolderPath, matchesFolderPath) => {
+const processSubdirectory = async (directoryPath, folderRoot, matchesFolderPath) => {
     try {
         const subFiles = await fs.readdir(directoryPath, { withFileTypes: true });
 
@@ -47,7 +44,7 @@ const processSubdirectory = async (directoryPath, folderRoot, teamsLogosFolderPa
                 const matchId = subFile.name.split(".")[0]; // Obtener el ID del partido del nombre del archivo
                 const matchFolderPath = path.join(matchesFolderPath, matchId); // Ruta de la carpeta del partido
 
-                await processDetails(subFilePath, folderRoot, teamsLogosFolderPath, matchFolderPath);
+                await processDetails(subFilePath, folderRoot, matchFolderPath);
             }
         }
     } catch (error) {
@@ -55,9 +52,7 @@ const processSubdirectory = async (directoryPath, folderRoot, teamsLogosFolderPa
     }
 };
 
-
-
-const processDetails = async (filePath, folderRoot, teamsLogosFolderPath, matchesFolderPath) => {
+const processDetails = async (filePath) => {
     try {
         const fileData = await fs.readFile(filePath, "utf8");
         const jsonData = JSON.parse(fileData);
@@ -66,7 +61,6 @@ const processDetails = async (filePath, folderRoot, teamsLogosFolderPath, matche
             for (const item of jsonData) {
                 if (item.gameLink) {
                     try {
-                        const baseUrl = BASE_URL;
                         const response = await axios.get(item.gameLink);
                         const html = response.data;
                         const root = parse(html);
@@ -80,55 +74,63 @@ const processDetails = async (filePath, folderRoot, teamsLogosFolderPath, matche
                         }
 
                         const infoTimePlaceText = infoTimePlace.text.trim();
-
                         const homeTeamLogo = gameResume.querySelector(".col-md-1 img");
                         const homeTeamNameElement = gameResume.querySelector(".col-md-3");
                         const scoreElement = gameResume.querySelector(".col-md-4 strong");
                         const awayTeamNameElement = gameResume.querySelector(".col-md-3.text-right");
                         const awayTeamLogo = gameResume.querySelector(".col-md-1.text-right img");
 
-                        if (!homeTeamLogo || !homeTeamNameElement || !scoreElement || !awayTeamNameElement || !awayTeamLogo) {
-                            console.error(`Error fetching data from ${item.gameLink}: Required elements not found`);
-                            continue;
-                        }
-
-                        const homeTeamLogoSrc = homeTeamLogo.getAttribute("src");
                         const homeTeamName = homeTeamNameElement.text.trim();
                         const score = scoreElement.text.trim();
                         const awayTeamName = awayTeamNameElement.text.trim();
-                        const awayTeamLogoSrc = awayTeamLogo.getAttribute("src");
 
                         const homeTeamInfoGoals = infoGoals.querySelector(".col-md-3.text-left")?.text || "";
                         const awayTeamInfoGoals = infoGoals.querySelector(".col-md-3.text-right")?.text || "";
 
-                        const detailsFolderPath = matchesFolderPath;
+                        const matchFolderPath = path.dirname(filePath); // Ruta de la carpeta del partido
+                        const detailsFolderPath = matchFolderPath;
                         await fs.mkdir(detailsFolderPath, { recursive: true });
-                        const imageFileName = path.basename(homeTeamLogoSrc);
-                        const imageFilePath = path.join(teamsLogosFolderPath, imageFileName);
-
-                        try {
-                            await fs.access(teamsLogosFolderPath);
-                        } catch (error) {
-                            await fs.mkdir(teamsLogosFolderPath, { recursive: true });
-                        }
-
-                        const imageUrl = `${baseUrl}${homeTeamLogoSrc}`;
-                        await downloadAndSaveImage(imageUrl, imageFilePath);
 
                         const matchId = item.gameLink.match(/matchId=(\d+)/)[1];
                         const fileName = `${matchId}.json`;
                         const detailsFilePath = path.join(detailsFolderPath, fileName);
 
                         const gameData = {
-                            homeTeamLogoSrc,
+                            homeTeamLogo: homeTeamLogo ? homeTeamLogo.getAttribute("src") : null,
                             homeTeamName,
                             score,
                             awayTeamName,
-                            awayTeamLogoSrc,
+                            awayTeamLogo: awayTeamLogo ? awayTeamLogo.getAttribute("src") : null,
                             infoTimePlace: infoTimePlaceText,
                             homeTeamInfoGoals,
                             awayTeamInfoGoals,
                         };
+
+                        let homeTeamLogoUrl = homeTeamLogo ? homeTeamLogo.getAttribute("src") : null;
+                        let awayTeamLogoUrl = awayTeamLogo ? awayTeamLogo.getAttribute("src") : null;
+
+                        const homeTeamLogoPath = homeTeamLogoUrl
+                            ? path.join(__dirname, "teams_logos", `${path.basename(homeTeamLogoUrl)}.png`)
+                            : null;
+                        const awayTeamLogoPath = awayTeamLogoUrl
+                            ? path.join(__dirname, "teams_logos", `${path.basename(awayTeamLogoUrl)}.png`)
+                            : null;
+
+                        if (homeTeamLogoPath && !homeTeamLogoUrl.startsWith("http") && !homeTeamLogoUrl.startsWith("https")) {
+                            homeTeamLogoUrl = `${BASE_URL}${homeTeamLogoUrl}`;
+                        }
+
+                        if (awayTeamLogoPath && !awayTeamLogoUrl.startsWith("http") && !awayTeamLogoUrl.startsWith("https")) {
+                            awayTeamLogoUrl = `${BASE_URL}${awayTeamLogoUrl}`;
+                        }
+
+                        if (homeTeamLogoPath) {
+                            await downloadImage(homeTeamLogoUrl, homeTeamLogoPath);
+                        }
+
+                        if (awayTeamLogoPath) {
+                            await downloadImage(awayTeamLogoUrl, awayTeamLogoPath);
+                        }
 
                         // Guardar el objeto gameData en el archivo JSON
                         await fs.writeFile(
@@ -149,6 +151,5 @@ const processDetails = async (filePath, folderRoot, teamsLogosFolderPath, matche
         console.error(`Error reading file ${filePath}:`, error);
     }
 };
-
 
 module.exports = saveDetails;

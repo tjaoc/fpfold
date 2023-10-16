@@ -10,27 +10,18 @@
   },
   {
     "gameLink": "",
+    "homeTeam": "Ad Barroselas \"B\"",
+    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
+    "awayTeam": "Arc Guilhadeses",
+    "date": "14 jan",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
     "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
     "stadium": "Campo Beira Mar",
     "awayTeam": "Cd Cerveira",
-    "date": "14 jan",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Ud Moreira \"A\"",
-    "stadium": "Campo Tomada",
-    "awayTeam": "Neves Fc \"A\"",
-    "date": "14 jan",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Cc \"Os Torreenses\"",
-    "stadium": "Campo Da Cruz",
-    "awayTeam": "Sc Vianense \"B\"",
     "date": "14 jan",
     "hour": "10:00",
     "score": " - - -"
@@ -46,9 +37,18 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Ad Barroselas \"B\"",
-    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
-    "awayTeam": "Arc Guilhadeses",
+    "homeTeam": "Cc \"Os Torreenses\"",
+    "stadium": "Campo Da Cruz",
+    "awayTeam": "Sc Vianense \"B\"",
+    "date": "14 jan",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Ud Moreira \"A\"",
+    "stadium": "Campo Tomada",
+    "awayTeam": "Neves Fc \"A\"",
     "date": "14 jan",
     "hour": "10:00",
     "score": " - - -"

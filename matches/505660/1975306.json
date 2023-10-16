@@ -1,9 +1,9 @@
 {
-  "homeTeamLogoSrc": "/Club/Logo/1014",
+  "homeTeamLogo": "/Club/Logo/1014",
   "homeTeamName": "Cc \"Os Torreenses\"",
   "score": "1 - 2",
   "awayTeamName": "Adc Correlhã",
-  "awayTeamLogoSrc": "/Club/Logo/1007",
+  "awayTeamLogo": "/Club/Logo/1007",
   "infoTimePlace": "Data: 01-10-2023 Hora: 10:00 Estádio: Campo Da Cruz",
   "homeTeamInfoGoals": "",
   "awayTeamInfoGoals": ""

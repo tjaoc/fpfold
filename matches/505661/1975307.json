@@ -1,9 +1,9 @@
 {
-  "homeTeamLogoSrc": "/Club/Logo/1029",
+  "homeTeamLogo": "/Club/Logo/1029",
   "homeTeamName": "Neves Fc \"A\"",
   "score": "3 - 2",
   "awayTeamName": "Ud Moreira \"A\"",
-  "awayTeamLogoSrc": "/Club/Logo/2849",
+  "awayTeamLogo": "/Club/Logo/2849",
   "infoTimePlace": "Data: 08-10-2023 Hora: 10:00 Estádio: Campo Alferes Pinto Ribeiro - N.º 2",
   "homeTeamInfoGoals": "",
   "awayTeamInfoGoals": ""

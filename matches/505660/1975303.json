@@ -1,9 +1,9 @@
 {
-  "homeTeamLogoSrc": "/Club/Logo/1417",
+  "homeTeamLogo": "/Club/Logo/1417",
   "homeTeamName": "Âncora-Praia Fc",
   "score": "4 - 2",
   "awayTeamName": "Cd Cerveira",
-  "awayTeamLogoSrc": "/Club/Logo/398",
+  "awayTeamLogo": "/Club/Logo/398",
   "infoTimePlace": "Data: 01-10-2023 Hora: 10:00 Estádio: Campo Paulino Velho Gomes",
   "homeTeamInfoGoals": "",
   "awayTeamInfoGoals": ""

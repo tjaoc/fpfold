@@ -1,9 +1,9 @@
 {
-  "homeTeamLogoSrc": "/Club/Logo/1029",
+  "homeTeamLogo": "/Club/Logo/1029",
   "homeTeamName": "Neves Fc \"A\"",
   "score": "5 - 1",
   "awayTeamName": "Torre Sc",
-  "awayTeamLogoSrc": "/Club/Logo/1426",
+  "awayTeamLogo": "/Club/Logo/1426",
   "infoTimePlace": "Data: 01-10-2023 Hora: 10:00 Estádio: Campo Das Monções",
   "homeTeamInfoGoals": "",
   "awayTeamInfoGoals": ""

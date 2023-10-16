@@ -1,9 +1,9 @@
 {
-  "homeTeamLogoSrc": "/Club/Logo/398",
+  "homeTeamLogo": "/Club/Logo/398",
   "homeTeamName": "Cd Cerveira",
   "score": "0 - 6",
   "awayTeamName": "Ud Moreira \"A\"",
-  "awayTeamLogoSrc": "/Club/Logo/2849",
+  "awayTeamLogo": "/Club/Logo/2849",
   "infoTimePlace": "Data: 24-09-2023 Hora: 10:00 Estádio: Estádio Municipal Rafael Pedreira",
   "homeTeamInfoGoals": "",
   "awayTeamInfoGoals": ""

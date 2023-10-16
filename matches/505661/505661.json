@@ -1,23 +1,5 @@
 [
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975308",
-    "homeTeam": "Ad \"Os Limianos\" \"A\"",
-    "stadium": "Campo Cruzeiro",
-    "awayTeam": "Âncora-Praia Fc",
-    "date": "8 out",
-    "hour": "",
-    "score": "15 - 0"
-  },
-  {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975311",
-    "homeTeam": "Sc Vianense \"B\"",
-    "stadium": "Estádio Municipal Manuela Machado",
-    "awayTeam": "Cc \"Os Torreenses\"",
-    "date": "8 out",
-    "hour": "",
-    "score": "3 - 1"
-  },
-  {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975312",
     "homeTeam": "Torre Sc",
     "stadium": "Campo Das Monções",
@@ -27,13 +9,13 @@
     "score": "0 - 2"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975310",
-    "homeTeam": "Arc Guilhadeses",
-    "stadium": "Campo Padre Arieiro",
-    "awayTeam": "Ad Barroselas \"B\"",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975308",
+    "homeTeam": "Ad \"Os Limianos\" \"A\"",
+    "stadium": "Campo Cruzeiro",
+    "awayTeam": "Âncora-Praia Fc",
     "date": "8 out",
     "hour": "",
-    "score": "6 - 0"
+    "score": "15 - 0"
   },
   {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975309",
@@ -45,6 +27,15 @@
     "score": "0 - 4"
   },
   {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975310",
+    "homeTeam": "Arc Guilhadeses",
+    "stadium": "Campo Padre Arieiro",
+    "awayTeam": "Ad Barroselas \"B\"",
+    "date": "8 out",
+    "hour": "",
+    "score": "6 - 0"
+  },
+  {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975307",
     "homeTeam": "Neves Fc \"A\"",
     "stadium": "Campo Alferes Pinto Ribeiro - N.º 2",
@@ -52,5 +43,14 @@
     "date": "8 out",
     "hour": "",
     "score": "3 - 2"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975311",
+    "homeTeam": "Sc Vianense \"B\"",
+    "stadium": "Estádio Municipal Manuela Machado",
+    "awayTeam": "Cc \"Os Torreenses\"",
+    "date": "8 out",
+    "hour": "",
+    "score": "3 - 1"
   }
 ]

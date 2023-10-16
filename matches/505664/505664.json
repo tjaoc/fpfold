@@ -10,6 +10,15 @@
   },
   {
     "gameLink": "",
+    "homeTeam": "Sc Vianense \"B\"",
+    "stadium": "Campo Visconde Barrosa",
+    "awayTeam": "Arc Guilhadeses",
+    "date": "29 out",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
     "homeTeam": "Adc Correlhã",
     "stadium": "Campo Municipal Da Correlhã",
     "awayTeam": "Cd Cerveira",
@@ -31,15 +40,6 @@
     "homeTeam": "Âncora-Praia Fc",
     "stadium": "Campo Paulino Velho Gomes",
     "awayTeam": "Torre Sc",
-    "date": "29 out",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Sc Vianense \"B\"",
-    "stadium": "Campo Visconde Barrosa",
-    "awayTeam": "Arc Guilhadeses",
     "date": "29 out",
     "hour": "10:00",
     "score": " - - -"

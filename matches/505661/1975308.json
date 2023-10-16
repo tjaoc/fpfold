@@ -1,9 +1,9 @@
 {
-  "homeTeamLogoSrc": "/Club/Logo/2844",
+  "homeTeamLogo": "/Club/Logo/2844",
   "homeTeamName": "Ad \"Os Limianos\" \"A\"",
   "score": "15 - 0",
   "awayTeamName": "Âncora-Praia Fc",
-  "awayTeamLogoSrc": "/Club/Logo/1417",
+  "awayTeamLogo": "/Club/Logo/1417",
   "infoTimePlace": "Data: 08-10-2023 Hora: 10:00 Estádio: Campo Cruzeiro",
   "homeTeamInfoGoals": "",
   "awayTeamInfoGoals": ""

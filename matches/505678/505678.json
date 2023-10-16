@@ -1,15 +1,6 @@
 [
   {
     "gameLink": "",
-    "homeTeam": "Cc \"Os Torreenses\"",
-    "stadium": "Campo Da Cruz",
-    "awayTeam": "Âncora-Praia Fc",
-    "date": "25 fev",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
     "homeTeam": "Arc Guilhadeses",
     "stadium": "Campo Padre Arieiro",
     "awayTeam": "Ad \"Os Limianos\" \"A\"",
@@ -22,6 +13,15 @@
     "homeTeam": "Sc Vianense \"B\"",
     "stadium": "Campo Nº 2 Estadio Dr José Matos",
     "awayTeam": "Neves Fc \"A\"",
+    "date": "25 fev",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Cc \"Os Torreenses\"",
+    "stadium": "Campo Da Cruz",
+    "awayTeam": "Âncora-Praia Fc",
     "date": "25 fev",
     "hour": "10:00",
     "score": " - - -"

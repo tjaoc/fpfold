@@ -1,9 +1,9 @@
 {
-  "homeTeamLogoSrc": "/Club/Logo/2850",
+  "homeTeamLogo": "/Club/Logo/2850",
   "homeTeamName": "Arc Guilhadeses",
   "score": "3 - 3",
   "awayTeamName": "Âncora-Praia Fc",
-  "awayTeamLogoSrc": "/Club/Logo/1417",
+  "awayTeamLogo": "/Club/Logo/1417",
   "infoTimePlace": "Data: 24-09-2023 Hora: 10:00 Estádio: Campo Padre Arieiro",
   "homeTeamInfoGoals": "",
   "awayTeamInfoGoals": ""
