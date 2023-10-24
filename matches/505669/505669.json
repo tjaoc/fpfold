@@ -1,15 +1,6 @@
 [
   {
     "gameLink": "",
-    "homeTeam": "Ud Moreira \"A\"",
-    "stadium": "Campo Tomada",
-    "awayTeam": "Arc Guilhadeses",
-    "date": "3 dez",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
     "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
     "stadium": "Campo Beira Mar",
     "awayTeam": "Adc Correlhã",
@@ -22,6 +13,15 @@
     "homeTeam": "Âncora-Praia Fc",
     "stadium": "Campo Paulino Velho Gomes",
     "awayTeam": "Sc Vianense \"B\"",
+    "date": "3 dez",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Ad \"Os Limianos\" \"A\"",
+    "stadium": "Campo Cruzeiro",
+    "awayTeam": "Torre Sc",
     "date": "3 dez",
     "hour": "10:00",
     "score": " - - -"
@@ -46,9 +46,9 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Ad \"Os Limianos\" \"A\"",
-    "stadium": "Campo Cruzeiro",
-    "awayTeam": "Torre Sc",
+    "homeTeam": "Ud Moreira \"A\"",
+    "stadium": "Campo Tomada",
+    "awayTeam": "Arc Guilhadeses",
     "date": "3 dez",
     "hour": "10:00",
     "score": " - - -"

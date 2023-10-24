@@ -1,18 +1,9 @@
 [
   {
     "gameLink": "",
-    "homeTeam": "Torre Sc",
-    "stadium": "Campo Das Monções",
-    "awayTeam": "Arc Guilhadeses",
-    "date": "5 nov",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Ad \"Os Limianos\" \"A\"",
-    "stadium": "Campo Cruzeiro",
-    "awayTeam": "Adc Correlhã",
+    "homeTeam": "Âncora-Praia Fc",
+    "stadium": "Campo Paulino Velho Gomes",
+    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
     "date": "5 nov",
     "hour": "10:00",
     "score": " - - -"
@@ -22,6 +13,15 @@
     "homeTeam": "Cd Cerveira",
     "stadium": "Estádio Municipal Rafael Pedreira",
     "awayTeam": "Sc Vianense \"B\"",
+    "date": "5 nov",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Ad \"Os Limianos\" \"A\"",
+    "stadium": "Campo Cruzeiro",
+    "awayTeam": "Adc Correlhã",
     "date": "5 nov",
     "hour": "10:00",
     "score": " - - -"
@@ -46,9 +46,9 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Âncora-Praia Fc",
-    "stadium": "Campo Paulino Velho Gomes",
-    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
+    "homeTeam": "Torre Sc",
+    "stadium": "Campo Das Monções",
+    "awayTeam": "Arc Guilhadeses",
     "date": "5 nov",
     "hour": "10:00",
     "score": " - - -"
