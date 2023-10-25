@@ -6,9 +6,12 @@ const { BASE_URL } = require("./config");
 
 const downloadImage = async (imageUrl, imagePath) => {
     try {
-        const response = await axios.get(imageUrl, { responseType: "arraybuffer" });
-        await fs.mkdir(path.dirname(imagePath), { recursive: true });
-        await fs.writeFile(imagePath, response.data);
+        const response = await axios.get(BASE_URL + imageUrl, { responseType: "arraybuffer" });
+        const playersFolderPath = path.join(__dirname, "players");
+        await fs.mkdir(playersFolderPath, { recursive: true });
+        const imageName = path.basename(imagePath);
+        const newImagePath = path.join(playersFolderPath, `${imageName}.png`);
+        await fs.writeFile(newImagePath, response.data);
     } catch (error) {
         console.error(`Error downloading image: ${imageUrl}`, error);
     }
@@ -66,7 +69,7 @@ const processDetails = async (filePath, folderRoot, matchFolderPath, matchId) =>
                     try {
                         // Add a delay of 1 second before making the request
                         await new Promise(resolve => setTimeout(resolve, 1000));
-
+                        
                         const response = await axios.get(item.gameLink);
                         const html = response.data;
                         const root = parse(html);
@@ -87,6 +90,15 @@ const processDetails = async (filePath, folderRoot, matchFolderPath, matchId) =>
                             const name = item.gameLink.split("matchId=")[1].split("&")[0];
                             const detailsFilePath = path.join(matchFolderPath, `${name}.json`);
                             await fs.writeFile(detailsFilePath, JSON.stringify(playerData, null, 2));
+
+                            // Descargar las imágenes
+                            const playersFolderPath = path.join(folderRoot, "players");
+                            await fs.mkdir(playersFolderPath, { recursive: true });
+                            for (const player of playerData) {
+                                const imageName = path.basename(player.photo);
+                                const newImagePath = path.join(playersFolderPath, `${imageName}`);
+                                await downloadImage(player.photo, newImagePath);
+                            }
                         }
                     } catch (error) {
                         console.error(`Error fetching data from ${item.gameLink}:`, error);

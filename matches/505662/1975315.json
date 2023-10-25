@@ -1,10 +1,215 @@
-{
-  "homeTeamLogo": "/Club/Logo/1030",
-  "homeTeamName": "Perspectiva Em Jogo Ad \"A\"",
-  "score": "1 - 4",
-  "awayTeamName": "Ad \"Os Limianos\" \"A\"",
-  "awayTeamLogo": "/Club/Logo/2844",
-  "homeTeamInfoGoals": "",
-  "awayTeamInfoGoals": "",
-  "players": []
-}
+[
+  {
+    "photo": "/Player/Logo/3320510",
+    "number": "1",
+    "name": "Rafael Barbosa (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3320890",
+    "number": "2",
+    "name": "Diogo Barros"
+  },
+  {
+    "photo": "/Player/Logo/3321337",
+    "number": "3",
+    "name": "Joao Pereira"
+  },
+  {
+    "photo": "/Player/Logo/3320244",
+    "number": "4",
+    "name": "Diogo Freitas"
+  },
+  {
+    "photo": "/Player/Logo/3321286",
+    "number": "6",
+    "name": "Paulo Lages"
+  },
+  {
+    "photo": "/Player/Logo/3320420",
+    "number": "8",
+    "name": "8 Diogo Faustino"
+  },
+  {
+    "photo": "/Player/Logo/3320655",
+    "number": "9",
+    "name": "João Carneiro"
+  },
+  {
+    "photo": "/Player/Logo/3320271",
+    "number": "10",
+    "name": "Martim Ribeiro"
+  },
+  {
+    "photo": "/Player/Logo/3321320",
+    "number": "19",
+    "name": "Simão Viana"
+  },
+  {
+    "photo": "/Player/Logo/3320883",
+    "number": "20",
+    "name": "Dario Lopes"
+  },
+  {
+    "photo": "/Player/Logo/3320257",
+    "number": "21",
+    "name": "Élio Nunes"
+  },
+  {
+    "photo": "/Player/Logo/3313985",
+    "number": "1",
+    "name": "Micael Amorim (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3116059",
+    "number": "4",
+    "name": "Santiago Lima"
+  },
+  {
+    "photo": "/Player/Logo/3312374",
+    "number": "7",
+    "name": "7 Guilherme Crasto"
+  },
+  {
+    "photo": "/Player/Logo/3310010",
+    "number": "8",
+    "name": "Angelo Costa"
+  },
+  {
+    "photo": "/Player/Logo/3310022",
+    "number": "10",
+    "name": "10 Jose Matos"
+  },
+  {
+    "photo": "/Player/Logo/3310000",
+    "number": "11",
+    "name": "Tomás Sousa"
+  },
+  {
+    "photo": "/Player/Logo/3310160",
+    "number": "12",
+    "name": "Ruben Sousa"
+  },
+  {
+    "photo": "/Player/Logo/3312204",
+    "number": "14",
+    "name": "Joao Pimenta"
+  },
+  {
+    "photo": "/Player/Logo/3312159",
+    "number": "21",
+    "name": "Martim Alves"
+  },
+  {
+    "photo": "/Player/Logo/2984918",
+    "number": "24",
+    "name": "Bernardo Vieira"
+  },
+  {
+    "photo": "/Player/Logo/3310043",
+    "number": "87",
+    "name": "Simao Barros"
+  },
+  {
+    "photo": "/Player/Logo/2972293",
+    "number": "5",
+    "name": "Rodrigo Torres"
+  },
+  {
+    "photo": "/Player/Logo/3320703",
+    "number": "11",
+    "name": "Rodrigo Campos"
+  },
+  {
+    "photo": "/Player/Logo/3320877",
+    "number": "16",
+    "name": "Guilherme Lage"
+  },
+  {
+    "photo": "/Player/Logo/3310031",
+    "number": "2",
+    "name": "Leonardo Amorim"
+  },
+  {
+    "photo": "/Player/Logo/3312195",
+    "number": "5",
+    "name": "Afonso Sousa"
+  },
+  {
+    "photo": "/Player/Logo/3313973",
+    "number": "9",
+    "name": "9 Rodrigo Silva"
+  },
+  {
+    "photo": "/Player/Logo/3312171",
+    "number": "13",
+    "name": "Luis Matos"
+  },
+  {
+    "photo": "/Player/Logo/3312105",
+    "number": "20",
+    "name": "Miguel Menezes"
+  },
+  {
+    "photo": "/Player/Logo/3312145",
+    "number": "25",
+    "name": "Martim Costa"
+  },
+  {
+    "photo": "/Player/Logo/3310175",
+    "number": "77",
+    "name": "Rodrigo Sousa"
+  },
+  {
+    "photo": "/Player/Logo/3312097",
+    "number": "80",
+    "name": "Ricardo Pereira (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3312185",
+    "number": "88",
+    "name": "Diego Barroca"
+  },
+  {
+    "photo": "/Player/Logo/3157743",
+    "name": "Treinador Principal\r\n                                Andre Filipe Lomba Xavier"
+  },
+  {
+    "photo": "/Player/Logo/3174059",
+    "name": "Treinador Principal\r\n                                Rui Pedro Alves Maciel"
+  },
+  {
+    "photo": "/Player/Logo/3197071",
+    "name": "Treinador Adjunto\r\n                                Marcio Trindade Laranjeira"
+  },
+  {
+    "photo": "/Player/Logo/3157736",
+    "name": "Massagista\r\n                                Cesar Miguel Castro Oliveira"
+  },
+  {
+    "photo": "/Player/Logo/3107189",
+    "name": "Treinador Adjunto\r\n                                Paulo Cesar Lima Pereira Meneses"
+  },
+  {
+    "photo": "/Player/Logo/1950677",
+    "name": "1º Delegado\r\n                                Pedro Manuel Lima Meneses"
+  },
+  {
+    "photo": "/Player/Logo/2971470",
+    "name": "Treinador Estagiário\r\n                                Joao Carlos Vieira Ferreira"
+  },
+  {
+    "photo": "/Images/icon-referee.png",
+    "number": "Arbitro",
+    "name": "Arbitro\n \r\n                            Lucínio Alves"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 1",
+    "name": "Arbitro Assistente Ruben Barros Silva"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 2",
+    "name": "Arbitro Assistente Ezequiel Martins"
+  }
+]
