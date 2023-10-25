@@ -75,8 +75,7 @@ const processDetails = async (filePath, folderRoot, matchFolderPath, matchId) =>
                         players.forEach((player) => {
                             const photo = player.querySelector("img").getAttribute("src");
                             const number = player.querySelector("strong")?.textContent;
-                            let name = player.textContent.replace(/^\d+\s+/, "").trim(); // Remove numbers and whitespace before the name
-                            name = name.replace(/\r?\n|\r/g, ""); // Remove \r\n characters
+                            const name = player.textContent.replace(/\d+\s+/, "").trim();
                             playerData.push({
                                 photo,
                                 number,

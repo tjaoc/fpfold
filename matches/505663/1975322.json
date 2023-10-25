@@ -1,10 +1,172 @@
-{
-  "homeTeamLogo": "/Club/Logo/398",
-  "homeTeamName": "Cd Cerveira",
-  "score": "1 - 0",
-  "awayTeamName": "Cc \"Os Torreenses\"",
-  "awayTeamLogo": "/Club/Logo/1014",
-  "homeTeamInfoGoals": "",
-  "awayTeamInfoGoals": "",
-  "players": []
-}
+[
+  {
+    "photo": "/Player/Logo/2980983",
+    "number": "1",
+    "name": "Tiago Rodrigues (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3037113",
+    "number": "3",
+    "name": "David Gomez"
+  },
+  {
+    "photo": "/Player/Logo/2981006",
+    "number": "4",
+    "name": "Duarte Araujo"
+  },
+  {
+    "photo": "/Player/Logo/3027189",
+    "number": "9",
+    "name": "Xavier Goncalves"
+  },
+  {
+    "photo": "/Player/Logo/3029198",
+    "number": "11",
+    "name": "João Afonso"
+  },
+  {
+    "photo": "/Player/Logo/2932758",
+    "number": "12",
+    "name": "12 Raul Santos"
+  },
+  {
+    "photo": "/Player/Logo/2511218",
+    "number": "14",
+    "name": "Beatriz Bouçós"
+  },
+  {
+    "photo": "/Player/Logo/3027185",
+    "number": "37",
+    "name": "Rodrigo Sousa"
+  },
+  {
+    "photo": "/Player/Logo/3031240",
+    "number": "72",
+    "name": "Gonçalo Lindade"
+  },
+  {
+    "photo": "/Player/Logo/2932677",
+    "number": "85",
+    "name": "Andre Elisio"
+  },
+  {
+    "photo": "/Player/Logo/2904226",
+    "number": "1",
+    "name": "Rodrigo Temporão (GR)"
+  },
+  {
+    "photo": "/Player/Logo/2904231",
+    "number": "2",
+    "name": "Afonso Temporão"
+  },
+  {
+    "photo": "/Player/Logo/3022867",
+    "number": "5",
+    "name": "Tomás Ferreira"
+  },
+  {
+    "photo": "/Player/Logo/2904705",
+    "number": "6",
+    "name": "Tomas Caldas"
+  },
+  {
+    "photo": "/Player/Logo/2929786",
+    "number": "7",
+    "name": "Mateus Martins"
+  },
+  {
+    "photo": "/Player/Logo/2929770",
+    "number": "8",
+    "name": "Hugo Marinho"
+  },
+  {
+    "photo": "/Player/Logo/2904714",
+    "number": "9",
+    "name": "Miguel Esteves"
+  },
+  {
+    "photo": "/Player/Logo/2929761",
+    "number": "13",
+    "name": "Diogo Marinho"
+  },
+  {
+    "photo": "/Player/Logo/2984969",
+    "number": "15",
+    "name": "Fábio Lima"
+  },
+  {
+    "photo": "/Player/Logo/1468758",
+    "number": "17",
+    "name": "David Lopes"
+  },
+  {
+    "photo": "/Player/Logo/2929809",
+    "number": "19",
+    "name": "Rodrigo Araujo"
+  },
+  {
+    "photo": "/Player/Logo/2991977",
+    "number": "13",
+    "name": "Miguel Pombal"
+  },
+  {
+    "photo": "/Player/Logo/2981044",
+    "number": "30",
+    "name": "Manuel Alves"
+  },
+  {
+    "photo": "/Player/Logo/2511219",
+    "number": "71",
+    "name": "António Leite"
+  },
+  {
+    "photo": "/Player/Logo/2984966",
+    "number": "3",
+    "name": "Tiago Fuenteseca"
+  },
+  {
+    "photo": "/Player/Logo/2979959",
+    "number": "4",
+    "name": "Gabriel Fernandes"
+  },
+  {
+    "photo": "/Player/Logo/2984971",
+    "number": "16",
+    "name": "Gonçalo Conde"
+  },
+  {
+    "photo": "/Player/Logo/3194669",
+    "name": "Treinador Principal\r\n                                Leandro Cunha Lourenco"
+  },
+  {
+    "photo": "/Player/Logo/3188946",
+    "name": "1º Delegado\r\n                                José Pedro Branco Rodrigues"
+  },
+  {
+    "photo": "/Player/Logo/3233629",
+    "name": "1º Delegado\r\n                                Manuel Jose Cunha Fernandes Moura"
+  },
+  {
+    "photo": "/Player/Logo/3189596",
+    "name": "2º Delegado\r\n                                Joao Paulo Conde Rodrigues"
+  },
+  {
+    "photo": "/Player/Logo/3194619",
+    "name": "Treinador Estagiário\r\n                                Cristiano Joao Goncalves Pereira"
+  },
+  {
+    "photo": "/Images/icon-referee.png",
+    "number": "Arbitro",
+    "name": "Arbitro\n \r\n                            Ivan Azevedo"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 1",
+    "name": "Arbitro Assistente Bruno Nunes"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 2",
+    "name": "Arbitro Assistente João Valentim"
+  }
+]

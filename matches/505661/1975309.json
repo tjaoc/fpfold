@@ -1,10 +1,188 @@
-{
-  "homeTeamLogo": "/Club/Logo/398",
-  "homeTeamName": "Cd Cerveira",
-  "score": "0 - 4",
-  "awayTeamName": "Perspectiva Em Jogo Ad \"A\"",
-  "awayTeamLogo": "/Club/Logo/1030",
-  "homeTeamInfoGoals": "",
-  "awayTeamInfoGoals": "",
-  "players": []
-}
+[
+  {
+    "photo": "/Player/Logo/2980983",
+    "number": "1",
+    "name": "Tiago Rodrigues (GR)"
+  },
+  {
+    "photo": "/Player/Logo/2981006",
+    "number": "4",
+    "name": "Duarte Araujo"
+  },
+  {
+    "photo": "/Player/Logo/2511218",
+    "number": "8",
+    "name": "Beatriz Bouçós"
+  },
+  {
+    "photo": "/Player/Logo/3027189",
+    "number": "9",
+    "name": "Xavier Goncalves"
+  },
+  {
+    "photo": "/Player/Logo/2932758",
+    "number": "12",
+    "name": "Raul Santos"
+  },
+  {
+    "photo": "/Player/Logo/2991977",
+    "number": "13",
+    "name": "Miguel Pombal"
+  },
+  {
+    "photo": "/Player/Logo/3031240",
+    "number": "20",
+    "name": "Gonçalo Lindade"
+  },
+  {
+    "photo": "/Player/Logo/2981044",
+    "number": "30",
+    "name": "Manuel Alves"
+  },
+  {
+    "photo": "/Player/Logo/497155",
+    "number": "66",
+    "name": "Gabriel Simoes"
+  },
+  {
+    "photo": "/Player/Logo/2932677",
+    "number": "85",
+    "name": "Andre Elisio"
+  },
+  {
+    "photo": "/Player/Logo/3022058",
+    "number": "86",
+    "name": "Guilherme Lindo"
+  },
+  {
+    "photo": "/Player/Logo/3320510",
+    "number": "1",
+    "name": "Rafael Barbosa (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3320890",
+    "number": "2",
+    "name": "Diogo Barros"
+  },
+  {
+    "photo": "/Player/Logo/3320244",
+    "number": "4",
+    "name": "Diogo Freitas"
+  },
+  {
+    "photo": "/Player/Logo/3321286",
+    "number": "6",
+    "name": "Paulo Lages"
+  },
+  {
+    "photo": "/Player/Logo/3321256",
+    "number": "7",
+    "name": "José Cruz"
+  },
+  {
+    "photo": "/Player/Logo/3320420",
+    "number": "8",
+    "name": "8 Diogo Faustino"
+  },
+  {
+    "photo": "/Player/Logo/3320655",
+    "number": "9",
+    "name": "9 João Carneiro"
+  },
+  {
+    "photo": "/Player/Logo/3320271",
+    "number": "10",
+    "name": "10 Martim Ribeiro"
+  },
+  {
+    "photo": "/Player/Logo/3320643",
+    "number": "18",
+    "name": "Luís Vieira"
+  },
+  {
+    "photo": "/Player/Logo/3320883",
+    "number": "20",
+    "name": "Dario Lopes"
+  },
+  {
+    "photo": "/Player/Logo/3320257",
+    "number": "21",
+    "name": "Élio Nunes"
+  },
+  {
+    "photo": "/Player/Logo/3029198",
+    "number": "14",
+    "name": "João Afonso"
+  },
+  {
+    "photo": "/Player/Logo/3015339",
+    "number": "15",
+    "name": "Duarte Pereira"
+  },
+  {
+    "photo": "/Player/Logo/2991993",
+    "number": "18",
+    "name": "João Queiroz"
+  },
+  {
+    "photo": "/Player/Logo/2991988",
+    "number": "19",
+    "name": "Hugo Alves (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3321337",
+    "number": "3",
+    "name": "Joao Pereira"
+  },
+  {
+    "photo": "/Player/Logo/2972293",
+    "number": "5",
+    "name": "Rodrigo Torres"
+  },
+  {
+    "photo": "/Player/Logo/3320703",
+    "number": "11",
+    "name": "Rodrigo Campos"
+  },
+  {
+    "photo": "/Player/Logo/3320877",
+    "number": "16",
+    "name": "Guilherme Lage"
+  },
+  {
+    "photo": "/Player/Logo/3321320",
+    "number": "19",
+    "name": "Simão Viana"
+  },
+  {
+    "photo": "/Player/Logo/3194669",
+    "name": "Treinador Principal\r\n                                Leandro Cunha Lourenco"
+  },
+  {
+    "photo": "/Player/Logo/3157743",
+    "name": "Treinador Principal\r\n                                Andre Filipe Lomba Xavier"
+  },
+  {
+    "photo": "/Player/Logo/3188946",
+    "name": "1º Delegado\r\n                                José Pedro Branco Rodrigues"
+  },
+  {
+    "photo": "/Player/Logo/3197071",
+    "name": "Treinador Adjunto\r\n                                Marcio Trindade Laranjeira"
+  },
+  {
+    "photo": "/Images/icon-referee.png",
+    "number": "Arbitro",
+    "name": "Arbitro\n \r\n                            Hugo Gomes"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 1",
+    "name": "Arbitro Assistente Ricardo Pinto Araújo"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 2",
+    "name": "Arbitro Assistente Ian Martins"
+  }
+]

@@ -1,10 +1,239 @@
-{
-  "homeTeamLogo": "/Club/Logo/2849",
-  "homeTeamName": "Ud Moreira \"A\"",
-  "score": "4 - 3",
-  "awayTeamName": "Âncora-Praia Fc",
-  "awayTeamLogo": "/Club/Logo/1417",
-  "homeTeamInfoGoals": "",
-  "awayTeamInfoGoals": "",
-  "players": []
-}
+[
+  {
+    "photo": "/Player/Logo/2904680",
+    "number": "1",
+    "name": "Tomas Vicente (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3347192",
+    "number": "4",
+    "name": "Diogo Goncalves"
+  },
+  {
+    "photo": "/Player/Logo/3347248",
+    "number": "5",
+    "name": "Goncalo Pereira"
+  },
+  {
+    "photo": "/Player/Logo/3347194",
+    "number": "6",
+    "name": "Edgar Carvalho"
+  },
+  {
+    "photo": "/Player/Logo/3347356",
+    "number": "7",
+    "name": "Raul Certal"
+  },
+  {
+    "photo": "/Player/Logo/3347205",
+    "number": "8",
+    "name": "Gabriel Roma"
+  },
+  {
+    "photo": "/Player/Logo/3347307",
+    "number": "9",
+    "name": "9 Martim Domingues"
+  },
+  {
+    "photo": "/Player/Logo/3347454",
+    "number": "10",
+    "name": "10 Hasan Ochoa"
+  },
+  {
+    "photo": "/Player/Logo/3347525",
+    "number": "11",
+    "name": "Jose Gonzalez"
+  },
+  {
+    "photo": "/Player/Logo/2467230",
+    "number": "19",
+    "name": "Rodrigo Fernandes"
+  },
+  {
+    "photo": "/Player/Logo/3347187",
+    "number": "21",
+    "name": "David Pacheco"
+  },
+  {
+    "photo": "/Player/Logo/3278916",
+    "number": "4",
+    "name": "4 Tome Castro"
+  },
+  {
+    "photo": "/Player/Logo/3278674",
+    "number": "5",
+    "name": "Lucas Pires"
+  },
+  {
+    "photo": "/Player/Logo/3278529",
+    "number": "7",
+    "name": "7 Jorge Tomaz"
+  },
+  {
+    "photo": "/Player/Logo/3281229",
+    "number": "8",
+    "name": "Daniel Mota"
+  },
+  {
+    "photo": "/Player/Logo/3277329",
+    "number": "10",
+    "name": "Alexandre Dantas"
+  },
+  {
+    "photo": "/Player/Logo/3277438",
+    "number": "17",
+    "name": "Diogo Sousa"
+  },
+  {
+    "photo": "/Player/Logo/3277389",
+    "number": "18",
+    "name": "18 André Barbosa"
+  },
+  {
+    "photo": "/Player/Logo/3280724",
+    "number": "19",
+    "name": "Vincent Pinto"
+  },
+  {
+    "photo": "/Player/Logo/3278793",
+    "number": "22",
+    "name": "Rui Guerreiro"
+  },
+  {
+    "photo": "/Player/Logo/3278772",
+    "number": "66",
+    "name": "Miguel Carvalho"
+  },
+  {
+    "photo": "/Player/Logo/3277421",
+    "number": "99",
+    "name": "Diogo Barbosa (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3347222",
+    "number": "3",
+    "name": "Goncalo Paiva"
+  },
+  {
+    "photo": "/Player/Logo/3347257",
+    "number": "12",
+    "name": "Guilherme Caldas (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3347554",
+    "number": "14",
+    "name": "Tiago Felgueiras"
+  },
+  {
+    "photo": "/Player/Logo/3347330",
+    "number": "15",
+    "name": "Octávio Silva"
+  },
+  {
+    "photo": "/Player/Logo/3347281",
+    "number": "16",
+    "name": "Manuel Almeida"
+  },
+  {
+    "photo": "/Player/Logo/3347474",
+    "number": "17",
+    "name": "Tiago Duque"
+  },
+  {
+    "photo": "/Player/Logo/3347173",
+    "number": "20",
+    "name": "Adriana Cruz"
+  },
+  {
+    "photo": "/Player/Logo/3280819",
+    "number": "1",
+    "name": "Tiago Torres (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3342954",
+    "number": "6",
+    "name": "Pedro Matos"
+  },
+  {
+    "photo": "/Player/Logo/3278833",
+    "number": "11",
+    "name": "Sergio Pereira"
+  },
+  {
+    "photo": "/Player/Logo/3278747",
+    "number": "12",
+    "name": "Lucas Boas"
+  },
+  {
+    "photo": "/Player/Logo/3343052",
+    "number": "14",
+    "name": "Francisco Máximo"
+  },
+  {
+    "photo": "/Player/Logo/3281166",
+    "number": "20",
+    "name": "João Moreira"
+  },
+  {
+    "photo": "/Player/Logo/3278960",
+    "number": "23",
+    "name": "Tomas Sa"
+  },
+  {
+    "photo": "/Player/Logo/3280755",
+    "number": "30",
+    "name": "Afonso Amorim"
+  },
+  {
+    "photo": "/Player/Logo/3281184",
+    "number": "31",
+    "name": "Pedro Quintas"
+  },
+  {
+    "photo": "/Player/Logo/3196530",
+    "name": "Treinador Principal\r\n                                Sergio Pombo Felgueiras"
+  },
+  {
+    "photo": "/Player/Logo/3174732",
+    "name": "Treinador Principal\r\n                                Carlos Manuel Ribeiro Costa"
+  },
+  {
+    "photo": "/Player/Logo/3196532",
+    "name": "1º Delegado\r\n                                Tiago José Amoedo Oliveira Cruz"
+  },
+  {
+    "photo": "/Player/Logo/3323297",
+    "name": "2º Delegado\r\n                                Vitor Manuel Goncalves Pereira"
+  },
+  {
+    "photo": "/Player/Logo/3196593",
+    "name": "Fisioterapeuta\r\n                                Filipe Esteves Cordeiro"
+  },
+  {
+    "photo": "/Player/Logo/3153368",
+    "name": "1º Delegado\r\n                                João Carlos Verde Moreira"
+  },
+  {
+    "photo": "/Player/Logo/3328931",
+    "name": "2º Delegado\r\n                                Mariana Filipa Da Silva Peixoto"
+  },
+  {
+    "photo": "/Player/Logo/3274832",
+    "name": "Técnico De Sbv-Dae\r\n                                Marco Antonio Dias Lirio Guerreiro"
+  },
+  {
+    "photo": "/Images/icon-referee.png",
+    "number": "Arbitro",
+    "name": "Arbitro\n \r\n                            Ines Tomás"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 1",
+    "name": "Arbitro Assistente Bárbara Domingues"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 2",
+    "name": "Arbitro Assistente Cláudia Tomás"
+  }
+]

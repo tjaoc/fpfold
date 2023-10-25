@@ -1,10 +1,211 @@
-{
-  "homeTeamLogo": "/Club/Logo/1029",
-  "homeTeamName": "Neves Fc \"A\"",
-  "score": "3 - 2",
-  "awayTeamName": "Ud Moreira \"A\"",
-  "awayTeamLogo": "/Club/Logo/2849",
-  "homeTeamInfoGoals": "",
-  "awayTeamInfoGoals": "",
-  "players": []
-}
+[
+  {
+    "photo": "/Player/Logo/2853554",
+    "number": "7",
+    "name": "Tiago Mendes"
+  },
+  {
+    "photo": "/Player/Logo/2858446",
+    "number": "10",
+    "name": "10 Hugo Ferreira"
+  },
+  {
+    "photo": "/Player/Logo/2929968",
+    "number": "13",
+    "name": "Vinicius Freitas"
+  },
+  {
+    "photo": "/Player/Logo/2854040",
+    "number": "15",
+    "name": "15 Santiago Martins"
+  },
+  {
+    "photo": "/Player/Logo/2854006",
+    "number": "30",
+    "name": "José Miranda"
+  },
+  {
+    "photo": "/Player/Logo/2862691",
+    "number": "31",
+    "name": "Rodrigo Domingues"
+  },
+  {
+    "photo": "/Player/Logo/2943565",
+    "number": "52",
+    "name": "Rodrigo Martins"
+  },
+  {
+    "photo": "/Player/Logo/2853808",
+    "number": "77",
+    "name": "77"
+  },
+  {
+    "photo": "/Player/Logo/2853789",
+    "number": "88",
+    "name": "Alexandre Carvalho"
+  },
+  {
+    "photo": "/Player/Logo/2860283",
+    "number": "99",
+    "name": "Afonso Costa (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3347338",
+    "number": "3",
+    "name": "Pedro Silva"
+  },
+  {
+    "photo": "/Player/Logo/3347192",
+    "number": "4",
+    "name": "Diogo Goncalves"
+  },
+  {
+    "photo": "/Player/Logo/3347248",
+    "number": "5",
+    "name": "Goncalo Pereira"
+  },
+  {
+    "photo": "/Player/Logo/3347194",
+    "number": "6",
+    "name": "Edgar Carvalho"
+  },
+  {
+    "photo": "/Player/Logo/3347205",
+    "number": "8",
+    "name": "Gabriel Roma"
+  },
+  {
+    "photo": "/Player/Logo/3347307",
+    "number": "9",
+    "name": "9 Martim Domingues"
+  },
+  {
+    "photo": "/Player/Logo/3347525",
+    "number": "11",
+    "name": "Jose Gonzalez"
+  },
+  {
+    "photo": "/Player/Logo/3347257",
+    "number": "12",
+    "name": "Guilherme Caldas (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3347330",
+    "number": "15",
+    "name": "Octávio Silva"
+  },
+  {
+    "photo": "/Player/Logo/3347454",
+    "number": "18",
+    "name": "Hasan Ochoa"
+  },
+  {
+    "photo": "/Player/Logo/2467230",
+    "number": "19",
+    "name": "19 Rodrigo Fernandes"
+  },
+  {
+    "photo": "/Player/Logo/2854044",
+    "number": "1",
+    "name": "Gonçalo Vieira (GR)"
+  },
+  {
+    "photo": "/Player/Logo/2858536",
+    "number": "25",
+    "name": "Afonso Queiroz"
+  },
+  {
+    "photo": "/Player/Logo/2860311",
+    "number": "26",
+    "name": "Eduardo Pinheiro"
+  },
+  {
+    "photo": "/Player/Logo/2970686",
+    "number": "28",
+    "name": "Martim Abreu"
+  },
+  {
+    "photo": "/Player/Logo/2860548",
+    "number": "59",
+    "name": "Bruno Viana"
+  },
+  {
+    "photo": "/Player/Logo/2853998",
+    "number": "97",
+    "name": "João Abreu"
+  },
+  {
+    "photo": "/Player/Logo/2904680",
+    "number": "1",
+    "name": "Tomas Vicente (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3347356",
+    "number": "7",
+    "name": "Raul Certal"
+  },
+  {
+    "photo": "/Player/Logo/3347281",
+    "number": "10",
+    "name": "Manuel Almeida"
+  },
+  {
+    "photo": "/Player/Logo/3347554",
+    "number": "14",
+    "name": "Tiago Felgueiras"
+  },
+  {
+    "photo": "/Player/Logo/3347474",
+    "number": "17",
+    "name": "Tiago Duque"
+  },
+  {
+    "photo": "/Player/Logo/3347173",
+    "number": "20",
+    "name": "Adriana Cruz"
+  },
+  {
+    "photo": "/Player/Logo/3347187",
+    "number": "21",
+    "name": "David Pacheco"
+  },
+  {
+    "photo": "/Player/Logo/3189069",
+    "name": "Treinador Principal\r\n                                Raquel Torres Castro"
+  },
+  {
+    "photo": "/Player/Logo/3196530",
+    "name": "Treinador Principal\r\n                                Sergio Pombo Felgueiras"
+  },
+  {
+    "photo": "/Player/Logo/3189105",
+    "name": "Treinador Adjunto\r\n                                Pedro Braz Ribeiro"
+  },
+  {
+    "photo": "/Player/Logo/3189095",
+    "name": "Treinador Estagiário\r\n                                Silvestre Rodrigues Costa"
+  },
+  {
+    "photo": "/Player/Logo/3196532",
+    "name": "1º Delegado\r\n                                Tiago José Amoedo Oliveira Cruz"
+  },
+  {
+    "photo": "/Player/Logo/3196548",
+    "name": "Massagista\r\n                                Andreia Cristina Pereira Linhares"
+  },
+  {
+    "photo": "/Images/icon-referee.png",
+    "number": "Arbitro",
+    "name": "Arbitro\n \r\n                            Vítor Jeremias"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 1",
+    "name": "Arbitro Assistente Tiago Enes"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 2",
+    "name": "Arbitro Assistente Ezequiel Martins"
+  }
+]

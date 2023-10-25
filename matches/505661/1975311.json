@@ -1,10 +1,210 @@
-{
-  "homeTeamLogo": "/Club/Logo/499",
-  "homeTeamName": "Sc Vianense \"B\"",
-  "score": "3 - 1",
-  "awayTeamName": "Cc \"Os Torreenses\"",
-  "awayTeamLogo": "/Club/Logo/1014",
-  "homeTeamInfoGoals": "",
-  "awayTeamInfoGoals": "",
-  "players": []
-}
+[
+  {
+    "photo": "/Player/Logo/3103170",
+    "number": "1",
+    "name": "Tiago Couteiro (GR)"
+  },
+  {
+    "photo": "/Player/Logo/2982106",
+    "number": "12",
+    "name": "12 Rafael Paz"
+  },
+  {
+    "photo": "/Player/Logo/3050888",
+    "number": "17",
+    "name": "Tomas Acuña"
+  },
+  {
+    "photo": "/Player/Logo/3116281",
+    "number": "20",
+    "name": "Rodrigo Valenca"
+  },
+  {
+    "photo": "/Player/Logo/3110888",
+    "number": "21",
+    "name": "Bernardo Oliveira"
+  },
+  {
+    "photo": "/Player/Logo/2982333",
+    "number": "25",
+    "name": "25"
+  },
+  {
+    "photo": "/Player/Logo/3103324",
+    "number": "27",
+    "name": "Rodrigo Balinha"
+  },
+  {
+    "photo": "/Player/Logo/2982130",
+    "number": "28",
+    "name": "Manuel Azevedo"
+  },
+  {
+    "photo": "/Player/Logo/3235012",
+    "number": "29",
+    "name": "Francisco Rocha"
+  },
+  {
+    "photo": "/Player/Logo/3136286",
+    "number": "30",
+    "name": "José Mata"
+  },
+  {
+    "photo": "/Player/Logo/2982113",
+    "number": "31",
+    "name": "Miguel Barroso"
+  },
+  {
+    "photo": "/Player/Logo/2904226",
+    "number": "1",
+    "name": "Rodrigo Temporão (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3022867",
+    "number": "5",
+    "name": "Tomás Ferreira"
+  },
+  {
+    "photo": "/Player/Logo/2904705",
+    "number": "6",
+    "name": "Tomas Caldas"
+  },
+  {
+    "photo": "/Player/Logo/2929786",
+    "number": "7",
+    "name": "Mateus Martins"
+  },
+  {
+    "photo": "/Player/Logo/2929770",
+    "number": "8",
+    "name": "Hugo Marinho"
+  },
+  {
+    "photo": "/Player/Logo/2904714",
+    "number": "9",
+    "name": "Miguel Esteves"
+  },
+  {
+    "photo": "/Player/Logo/2929761",
+    "number": "13",
+    "name": "Diogo Marinho"
+  },
+  {
+    "photo": "/Player/Logo/2984971",
+    "number": "16",
+    "name": "Gonçalo Conde"
+  },
+  {
+    "photo": "/Player/Logo/3348546",
+    "number": "18",
+    "name": "18 Nuno Duque"
+  },
+  {
+    "photo": "/Player/Logo/2929809",
+    "number": "19",
+    "name": "Rodrigo Araujo"
+  },
+  {
+    "photo": "/Player/Logo/2929754",
+    "number": "20",
+    "name": "Santiago Gomes"
+  },
+  {
+    "photo": "/Player/Logo/3260354",
+    "number": "14",
+    "name": "Pedro Gonçalves"
+  },
+  {
+    "photo": "/Player/Logo/2982134",
+    "number": "15",
+    "name": "15 Goncalo Rodrigues"
+  },
+  {
+    "photo": "/Player/Logo/2982129",
+    "number": "16",
+    "name": "Simao Parente"
+  },
+  {
+    "photo": "/Player/Logo/3103303",
+    "number": "22",
+    "name": "Martim Soares"
+  },
+  {
+    "photo": "/Player/Logo/3260353",
+    "number": "23",
+    "name": "Rodrigo Silva"
+  },
+  {
+    "photo": "/Player/Logo/3110920",
+    "number": "26",
+    "name": "Fábio Lefrançois"
+  },
+  {
+    "photo": "/Player/Logo/2971366",
+    "number": "44",
+    "name": "António Lopes (GR)"
+  },
+  {
+    "photo": "/Player/Logo/2984966",
+    "number": "3",
+    "name": "Tiago Fuenteseca"
+  },
+  {
+    "photo": "/Player/Logo/2979959",
+    "number": "4",
+    "name": "Gabriel Fernandes"
+  },
+  {
+    "photo": "/Player/Logo/2984969",
+    "number": "15",
+    "name": "Fábio Lima"
+  },
+  {
+    "photo": "/Player/Logo/2984964",
+    "number": "17",
+    "name": "Tomás Pinto"
+  },
+  {
+    "photo": "/Player/Logo/3107060",
+    "name": "Treinador Principal\r\n                                Paulo Miguel Joao Pereira"
+  },
+  {
+    "photo": "/Player/Logo/3111628",
+    "name": "Treinador Principal\r\n                                Jorge Daniel Lisboa Freitas"
+  },
+  {
+    "photo": "/Player/Logo/3146451",
+    "name": "Treinador Adjunto\r\n                                Duarte Nuno Presa Pereira"
+  },
+  {
+    "photo": "/Player/Logo/3221800",
+    "name": "1º Delegado\r\n                                João Miguel Amorim Ribeiro"
+  },
+  {
+    "photo": "/Player/Logo/3075793",
+    "name": "Enfermeiro\r\n                                Olena Sazonov"
+  },
+  {
+    "photo": "/Player/Logo/3194639",
+    "name": "1º Delegado\r\n                                Henrique Manuel Barreiro Rodrigues"
+  },
+  {
+    "photo": "/Player/Logo/3189596",
+    "name": "2º Delegado\r\n                                Joao Paulo Conde Rodrigues"
+  },
+  {
+    "photo": "/Images/icon-referee.png",
+    "number": "Arbitro",
+    "name": "Arbitro\n \r\n                            Rui Machado"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 1",
+    "name": "Arbitro Assistente Pedro Gomes"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 2",
+    "name": "Arbitro Assistente Fábio Meira"
+  }
+]

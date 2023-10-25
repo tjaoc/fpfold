@@ -1,10 +1,245 @@
-{
-  "homeTeamLogo": "/Club/Logo/2844",
-  "homeTeamName": "Ad \"Os Limianos\" \"A\"",
-  "score": "15 - 0",
-  "awayTeamName": "Âncora-Praia Fc",
-  "awayTeamLogo": "/Club/Logo/1417",
-  "homeTeamInfoGoals": "",
-  "awayTeamInfoGoals": "",
-  "players": []
-}
+[
+  {
+    "photo": "/Player/Logo/3116059",
+    "number": "4",
+    "name": "4 Santiago Lima"
+  },
+  {
+    "photo": "/Player/Logo/3310022",
+    "number": "10",
+    "name": "10 Jose Matos"
+  },
+  {
+    "photo": "/Player/Logo/3310000",
+    "number": "11",
+    "name": "Tomás Sousa"
+  },
+  {
+    "photo": "/Player/Logo/3312145",
+    "number": "13",
+    "name": "Martim Costa"
+  },
+  {
+    "photo": "/Player/Logo/3312204",
+    "number": "14",
+    "name": "14 Joao Pimenta"
+  },
+  {
+    "photo": "/Player/Logo/3312159",
+    "number": "15",
+    "name": "Martim Alves"
+  },
+  {
+    "photo": "/Player/Logo/3310043",
+    "number": "20",
+    "name": "20 Simao Barros"
+  },
+  {
+    "photo": "/Player/Logo/2984918",
+    "number": "23",
+    "name": "Bernardo Vieira"
+  },
+  {
+    "photo": "/Player/Logo/3310010",
+    "number": "31",
+    "name": "31 Angelo Costa"
+  },
+  {
+    "photo": "/Player/Logo/3310160",
+    "number": "55",
+    "name": "Ruben Sousa"
+  },
+  {
+    "photo": "/Player/Logo/3313985",
+    "number": "92",
+    "name": "Micael Amorim (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3278916",
+    "number": "4",
+    "name": "Tome Castro"
+  },
+  {
+    "photo": "/Player/Logo/3278674",
+    "number": "5",
+    "name": "Lucas Pires"
+  },
+  {
+    "photo": "/Player/Logo/3278529",
+    "number": "7",
+    "name": "Jorge Tomaz"
+  },
+  {
+    "photo": "/Player/Logo/3281229",
+    "number": "8",
+    "name": "Daniel Mota"
+  },
+  {
+    "photo": "/Player/Logo/3277329",
+    "number": "10",
+    "name": "Alexandre Dantas"
+  },
+  {
+    "photo": "/Player/Logo/3277438",
+    "number": "17",
+    "name": "Diogo Sousa"
+  },
+  {
+    "photo": "/Player/Logo/3277389",
+    "number": "18",
+    "name": "André Barbosa"
+  },
+  {
+    "photo": "/Player/Logo/3280724",
+    "number": "19",
+    "name": "Vincent Pinto"
+  },
+  {
+    "photo": "/Player/Logo/3278793",
+    "number": "22",
+    "name": "Rui Guerreiro"
+  },
+  {
+    "photo": "/Player/Logo/3278772",
+    "number": "66",
+    "name": "Miguel Carvalho"
+  },
+  {
+    "photo": "/Player/Logo/3277421",
+    "number": "99",
+    "name": "Diogo Barbosa (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3310031",
+    "number": "2",
+    "name": "2 Leonardo Amorim"
+  },
+  {
+    "photo": "/Player/Logo/3312195",
+    "number": "5",
+    "name": "Afonso Sousa"
+  },
+  {
+    "photo": "/Player/Logo/3312374",
+    "number": "7",
+    "name": "Guilherme Crasto"
+  },
+  {
+    "photo": "/Player/Logo/3313973",
+    "number": "9",
+    "name": "Rodrigo Silva"
+  },
+  {
+    "photo": "/Player/Logo/3312383",
+    "number": "30",
+    "name": "Diogo Soutelo"
+  },
+  {
+    "photo": "/Player/Logo/2984932",
+    "number": "49",
+    "name": "49 Tomás Pereira"
+  },
+  {
+    "photo": "/Player/Logo/3312097",
+    "number": "62",
+    "name": "Ricardo Pereira (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3310175",
+    "number": "77",
+    "name": "Rodrigo Sousa"
+  },
+  {
+    "photo": "/Player/Logo/3312185",
+    "number": "88",
+    "name": "Diego Barroca"
+  },
+  {
+    "photo": "/Player/Logo/3280819",
+    "number": "1",
+    "name": "Tiago Torres (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3278501",
+    "number": "3",
+    "name": "João Sá"
+  },
+  {
+    "photo": "/Player/Logo/3342954",
+    "number": "6",
+    "name": "Pedro Matos"
+  },
+  {
+    "photo": "/Player/Logo/3278833",
+    "number": "11",
+    "name": "Sergio Pereira"
+  },
+  {
+    "photo": "/Player/Logo/3278747",
+    "number": "12",
+    "name": "Lucas Boas"
+  },
+  {
+    "photo": "/Player/Logo/3281166",
+    "number": "20",
+    "name": "João Moreira"
+  },
+  {
+    "photo": "/Player/Logo/3277460",
+    "number": "28",
+    "name": "Hugo Pires"
+  },
+  {
+    "photo": "/Player/Logo/3280755",
+    "number": "30",
+    "name": "Afonso Amorim"
+  },
+  {
+    "photo": "/Player/Logo/3343052",
+    "number": "50",
+    "name": "Francisco Máximo"
+  },
+  {
+    "photo": "/Player/Logo/3174059",
+    "name": "Treinador Principal\r\n                                Rui Pedro Alves Maciel"
+  },
+  {
+    "photo": "/Player/Logo/3174732",
+    "name": "Treinador Principal\r\n                                Carlos Manuel Ribeiro Costa"
+  },
+  {
+    "photo": "/Player/Logo/3107189",
+    "name": "Treinador Adjunto\r\n                                Paulo Cesar Lima Pereira Meneses"
+  },
+  {
+    "photo": "/Player/Logo/1950677",
+    "name": "1º Delegado\r\n                                Pedro Manuel Lima Meneses"
+  },
+  {
+    "photo": "/Player/Logo/2971470",
+    "name": "Treinador Estagiário\r\n                                Joao Carlos Vieira Ferreira"
+  },
+  {
+    "photo": "/Player/Logo/3231697",
+    "name": "Fisioterapeuta\r\n                                Luis Miguel Rodrigues Martins Dantas"
+  },
+  {
+    "photo": "/Player/Logo/3153368",
+    "name": "1º Delegado\r\n                                João Carlos Verde Moreira"
+  },
+  {
+    "photo": "/Images/icon-referee.png",
+    "number": "Arbitro",
+    "name": "Arbitro\n \r\n                            Rodrigo Correia"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 1",
+    "name": "Arbitro Assistente Guilherme Amado"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 2",
+    "name": "Arbitro Assistente Guilherme Matos"
+  }
+]
