@@ -27,7 +27,6 @@ const saveResumes = async (matchesData, fixtureId) => {
 
     try {
         await fs.mkdir(folderPath, { recursive: true });
-        console.log("Carpeta 'matches' creada con éxito.");
     } catch (error) {
         console.error("Error al crear la carpeta 'matches':", error);
         return;

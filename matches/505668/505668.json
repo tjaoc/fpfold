@@ -1,27 +1,27 @@
 [
   {
     "gameLink": "",
-    "homeTeam": "Cc \"Os Torreenses\"",
-    "stadium": "Campo Da Cruz",
-    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
-    "date": "26 nov",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Sc Vianense \"B\"",
-    "stadium": "Campo Nº 2 Estadio Dr José Matos",
-    "awayTeam": "Ud Moreira \"A\"",
-    "date": "26 nov",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
     "homeTeam": "Arc Guilhadeses",
     "stadium": "Campo Padre Arieiro",
     "awayTeam": "Neves Fc \"A\"",
+    "date": "26 nov",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Adc Correlhã",
+    "stadium": "Campo Municipal Da Correlhã",
+    "awayTeam": "Âncora-Praia Fc",
+    "date": "26 nov",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Cc \"Os Torreenses\"",
+    "stadium": "Campo Da Cruz",
+    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
     "date": "26 nov",
     "hour": "10:00",
     "score": " - - -"
@@ -37,9 +37,9 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Adc Correlhã",
-    "stadium": "Campo Municipal Da Correlhã",
-    "awayTeam": "Âncora-Praia Fc",
+    "homeTeam": "Sc Vianense \"B\"",
+    "stadium": "Campo Nº 2 Estadio Dr José Matos",
+    "awayTeam": "Ud Moreira \"A\"",
     "date": "26 nov",
     "hour": "10:00",
     "score": " - - -"

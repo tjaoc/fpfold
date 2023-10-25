@@ -1,10 +1,210 @@
-{
-  "homeTeamLogo": "/Club/Logo/499",
-  "homeTeamName": "Sc Vianense \"B\"",
-  "score": "1 - 2",
-  "awayTeamName": "Perspectiva Em Jogo Ad \"A\"",
-  "awayTeamLogo": "/Club/Logo/1030",
-  "homeTeamInfoGoals": "",
-  "awayTeamInfoGoals": "",
-  "players": []
-}
+[
+  {
+    "photo": "/Player/Logo/2982106",
+    "number": "12",
+    "name": "12 Rafael Paz"
+  },
+  {
+    "photo": "/Player/Logo/3260354",
+    "number": "14",
+    "name": "14 Pedro Gonçalves"
+  },
+  {
+    "photo": "/Player/Logo/3070493",
+    "number": "17",
+    "name": "17 João Damião"
+  },
+  {
+    "photo": "/Player/Logo/3116281",
+    "number": "20",
+    "name": "20 Rodrigo Valenca"
+  },
+  {
+    "photo": "/Player/Logo/2982333",
+    "number": "25",
+    "name": "25"
+  },
+  {
+    "photo": "/Player/Logo/3103324",
+    "number": "27",
+    "name": "27 Rodrigo Balinha"
+  },
+  {
+    "photo": "/Player/Logo/2982130",
+    "number": "28",
+    "name": "28 Manuel Azevedo"
+  },
+  {
+    "photo": "/Player/Logo/3235012",
+    "number": "29",
+    "name": "29 Francisco Rocha"
+  },
+  {
+    "photo": "/Player/Logo/3136286",
+    "number": "30",
+    "name": "1                                                                                            30 José Mata"
+  },
+  {
+    "photo": "/Player/Logo/2982113",
+    "number": "31",
+    "name": "31 Miguel Barroso"
+  },
+  {
+    "photo": "/Player/Logo/2971366",
+    "number": "44",
+    "name": "44 António Lopes (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3320510",
+    "number": "1",
+    "name": "1 Rafael Barbosa (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3320890",
+    "number": "2",
+    "name": "2 Diogo Barros"
+  },
+  {
+    "photo": "/Player/Logo/3320244",
+    "number": "4",
+    "name": "4 Diogo Freitas"
+  },
+  {
+    "photo": "/Player/Logo/3321286",
+    "number": "6",
+    "name": "6 Paulo Lages"
+  },
+  {
+    "photo": "/Player/Logo/3321256",
+    "number": "7",
+    "name": "7 José Cruz"
+  },
+  {
+    "photo": "/Player/Logo/3320420",
+    "number": "8",
+    "name": "1                                                                                            8 Diogo Faustino"
+  },
+  {
+    "photo": "/Player/Logo/3320703",
+    "number": "9",
+    "name": "9 Rodrigo Campos"
+  },
+  {
+    "photo": "/Player/Logo/3320271",
+    "number": "10",
+    "name": "1                                                                                            10 Martim Ribeiro"
+  },
+  {
+    "photo": "/Player/Logo/3321320",
+    "number": "16",
+    "name": "16 Simão Viana"
+  },
+  {
+    "photo": "/Player/Logo/3320643",
+    "number": "18",
+    "name": "18 Luís Vieira"
+  },
+  {
+    "photo": "/Player/Logo/3320257",
+    "number": "21",
+    "name": "21 Élio Nunes"
+  },
+  {
+    "photo": "/Player/Logo/3103170",
+    "number": "1",
+    "name": "1 Tiago Couteiro"
+  },
+  {
+    "photo": "/Player/Logo/2982129",
+    "number": "16",
+    "name": "16 Simao Parente"
+  },
+  {
+    "photo": "/Player/Logo/2982134",
+    "number": "19",
+    "name": "19 Goncalo Rodrigues"
+  },
+  {
+    "photo": "/Player/Logo/3110888",
+    "number": "21",
+    "name": "21 Bernardo Oliveira"
+  },
+  {
+    "photo": "/Player/Logo/3103303",
+    "number": "22",
+    "name": "22 Martim Soares"
+  },
+  {
+    "photo": "/Player/Logo/3260353",
+    "number": "23",
+    "name": "23 Rodrigo Silva"
+  },
+  {
+    "photo": "/Player/Logo/3159838",
+    "number": "26",
+    "name": "26 Pedro Leão"
+  },
+  {
+    "photo": "/Player/Logo/2972293",
+    "number": "3",
+    "name": "3 Rodrigo Torres"
+  },
+  {
+    "photo": "/Player/Logo/3320877",
+    "number": "5",
+    "name": "5 Guilherme Lage"
+  },
+  {
+    "photo": "/Player/Logo/3321344",
+    "number": "11",
+    "name": "11 Dinis Ferreira"
+  },
+  {
+    "photo": "/Player/Logo/3320883",
+    "number": "19",
+    "name": "19 Dario Lopes"
+  },
+  {
+    "photo": "/Player/Logo/3107060",
+    "name": "Treinador Principal                                Paulo Miguel Joao Pereira"
+  },
+  {
+    "photo": "/Player/Logo/3157743",
+    "name": "Treinador Principal                                Andre Filipe Lomba Xavier"
+  },
+  {
+    "photo": "/Player/Logo/3146451",
+    "name": "Treinador Adjunto                                Duarte Nuno Presa Pereira"
+  },
+  {
+    "photo": "/Player/Logo/3221800",
+    "name": "1º Delegado                                João Miguel Amorim Ribeiro"
+  },
+  {
+    "photo": "/Player/Logo/3075797",
+    "name": "Fisioterapeuta                                Pedro Antonio Trigo Bordalo Morais"
+  },
+  {
+    "photo": "/Player/Logo/3197071",
+    "name": "Treinador Adjunto                                Marcio Trindade Laranjeira"
+  },
+  {
+    "photo": "/Player/Logo/3256736",
+    "name": "1º Delegado                                Luis Miguel Gomes Silva Peixoto"
+  },
+  {
+    "photo": "/Images/icon-referee.png",
+    "number": "Arbitro",
+    "name": "Arbitro                             José Viana"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 1",
+    "name": "Arbitro Assistente 1                             Ruben Costa Silva"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 2",
+    "name": "Arbitro Assistente 2                             Rodrigo Vieira"
+  }
+]

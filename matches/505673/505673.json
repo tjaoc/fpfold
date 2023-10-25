@@ -1,15 +1,6 @@
 [
   {
     "gameLink": "",
-    "homeTeam": "Ad \"Os Limianos\" \"A\"",
-    "stadium": "Campo Cruzeiro",
-    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
-    "date": "21 jan",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
     "homeTeam": "Sc Vianense \"B\"",
     "stadium": "Campo Nº 2 Estadio Dr José Matos",
     "awayTeam": "Adc Correlhã",
@@ -19,18 +10,18 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Arc Guilhadeses",
-    "stadium": "Campo Padre Arieiro",
-    "awayTeam": "Cc \"Os Torreenses\"",
+    "homeTeam": "Neves Fc \"A\"",
+    "stadium": "Campo Alferes Pinto Ribeiro - N.º 2",
+    "awayTeam": "Âncora-Praia Fc",
     "date": "21 jan",
     "hour": "10:00",
     "score": " - - -"
   },
   {
     "gameLink": "",
-    "homeTeam": "Torre Sc",
-    "stadium": "Campo Das Monções",
-    "awayTeam": "Ud Moreira \"A\"",
+    "homeTeam": "Ad \"Os Limianos\" \"A\"",
+    "stadium": "Campo Cruzeiro",
+    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
     "date": "21 jan",
     "hour": "10:00",
     "score": " - - -"
@@ -46,9 +37,18 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Neves Fc \"A\"",
-    "stadium": "Campo Alferes Pinto Ribeiro - N.º 2",
-    "awayTeam": "Âncora-Praia Fc",
+    "homeTeam": "Torre Sc",
+    "stadium": "Campo Das Monções",
+    "awayTeam": "Ud Moreira \"A\"",
+    "date": "21 jan",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Arc Guilhadeses",
+    "stadium": "Campo Padre Arieiro",
+    "awayTeam": "Cc \"Os Torreenses\"",
     "date": "21 jan",
     "hour": "10:00",
     "score": " - - -"

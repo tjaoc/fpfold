@@ -1,15 +1,6 @@
 [
   {
     "gameLink": "",
-    "homeTeam": "Ud Moreira \"A\"",
-    "stadium": "Campo Tomada",
-    "awayTeam": "Adc Correlhã",
-    "date": "19 nov",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
     "homeTeam": "Neves Fc \"A\"",
     "stadium": "Campo Alferes Pinto Ribeiro - N.º 2",
     "awayTeam": "Sc Vianense \"B\"",
@@ -19,9 +10,18 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Âncora-Praia Fc",
-    "stadium": "Campo Paulino Velho Gomes",
-    "awayTeam": "Cc \"Os Torreenses\"",
+    "homeTeam": "Ud Moreira \"A\"",
+    "stadium": "Campo Tomada",
+    "awayTeam": "Adc Correlhã",
+    "date": "19 nov",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Torre Sc",
+    "stadium": "Campo Das Monções",
+    "awayTeam": "Cd Cerveira",
     "date": "19 nov",
     "hour": "10:00",
     "score": " - - -"
@@ -37,9 +37,9 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Torre Sc",
-    "stadium": "Campo Das Monções",
-    "awayTeam": "Cd Cerveira",
+    "homeTeam": "Âncora-Praia Fc",
+    "stadium": "Campo Paulino Velho Gomes",
+    "awayTeam": "Cc \"Os Torreenses\"",
     "date": "19 nov",
     "hour": "10:00",
     "score": " - - -"

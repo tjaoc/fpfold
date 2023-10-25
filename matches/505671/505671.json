@@ -1,36 +1,27 @@
 [
   {
     "gameLink": "",
-    "homeTeam": "Arc Guilhadeses",
-    "stadium": "Campo Padre Arieiro",
-    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
-    "date": "7 jan",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Adc Correlhã",
-    "stadium": "Campo Municipal Da Correlhã",
-    "awayTeam": "Cc \"Os Torreenses\"",
-    "date": "7 jan",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Ad \"Os Limianos\" \"A\"",
-    "stadium": "Campo Cruzeiro",
-    "awayTeam": "Ud Moreira \"A\"",
-    "date": "7 jan",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
     "homeTeam": "Torre Sc",
     "stadium": "Campo Das Monções",
     "awayTeam": "Neves Fc \"A\"",
+    "date": "7 jan",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Cd Cerveira",
+    "stadium": "Estádio Municipal Rafael Pedreira",
+    "awayTeam": "Âncora-Praia Fc",
+    "date": "7 jan",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Arc Guilhadeses",
+    "stadium": "Campo Padre Arieiro",
+    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
     "date": "7 jan",
     "hour": "10:00",
     "score": " - - -"
@@ -46,9 +37,18 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Cd Cerveira",
-    "stadium": "Estádio Municipal Rafael Pedreira",
-    "awayTeam": "Âncora-Praia Fc",
+    "homeTeam": "Ad \"Os Limianos\" \"A\"",
+    "stadium": "Campo Cruzeiro",
+    "awayTeam": "Ud Moreira \"A\"",
+    "date": "7 jan",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Adc Correlhã",
+    "stadium": "Campo Municipal Da Correlhã",
+    "awayTeam": "Cc \"Os Torreenses\"",
     "date": "7 jan",
     "hour": "10:00",
     "score": " - - -"

@@ -1,15 +1,6 @@
 [
   {
     "gameLink": "",
-    "homeTeam": "Ad Barroselas \"B\"",
-    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
-    "awayTeam": "Neves Fc \"A\"",
-    "date": "29 out",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
     "homeTeam": "Âncora-Praia Fc",
     "stadium": "Campo Paulino Velho Gomes",
     "awayTeam": "Torre Sc",
@@ -40,6 +31,15 @@
     "homeTeam": "Sc Vianense \"B\"",
     "stadium": "Campo Visconde Barrosa",
     "awayTeam": "Arc Guilhadeses",
+    "date": "29 out",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Ad Barroselas \"B\"",
+    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
+    "awayTeam": "Neves Fc \"A\"",
     "date": "29 out",
     "hour": "10:00",
     "score": " - - -"

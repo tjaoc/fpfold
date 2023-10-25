@@ -1,10 +1,235 @@
-{
-  "homeTeamLogo": "/Club/Logo/2849",
-  "homeTeamName": "Ud Moreira \"A\"",
-  "score": "0 - 6",
-  "awayTeamName": "Ad \"Os Limianos\" \"A\"",
-  "awayTeamLogo": "/Club/Logo/2844",
-  "homeTeamInfoGoals": "",
-  "awayTeamInfoGoals": "",
-  "players": []
-}
+[
+  {
+    "photo": "/Player/Logo/2904680",
+    "number": "1",
+    "name": "1 Tomas Vicente (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3347338",
+    "number": "3",
+    "name": "3 Pedro Silva"
+  },
+  {
+    "photo": "/Player/Logo/3347192",
+    "number": "4",
+    "name": "4 Diogo Goncalves"
+  },
+  {
+    "photo": "/Player/Logo/3347248",
+    "number": "5",
+    "name": "5 Goncalo Pereira"
+  },
+  {
+    "photo": "/Player/Logo/3347356",
+    "number": "7",
+    "name": "7 Raul Certal"
+  },
+  {
+    "photo": "/Player/Logo/3347205",
+    "number": "8",
+    "name": "8 Gabriel Roma"
+  },
+  {
+    "photo": "/Player/Logo/3347307",
+    "number": "9",
+    "name": "9 Martim Domingues"
+  },
+  {
+    "photo": "/Player/Logo/3347454",
+    "number": "10",
+    "name": "10 Hasan Ochoa"
+  },
+  {
+    "photo": "/Player/Logo/3347525",
+    "number": "11",
+    "name": "11 Jose Gonzalez"
+  },
+  {
+    "photo": "/Player/Logo/2467230",
+    "number": "19",
+    "name": "19 Rodrigo Fernandes"
+  },
+  {
+    "photo": "/Player/Logo/3347187",
+    "number": "21",
+    "name": "21 David Pacheco"
+  },
+  {
+    "photo": "/Player/Logo/3310031",
+    "number": "2",
+    "name": "2 Leonardo Amorim"
+  },
+  {
+    "photo": "/Player/Logo/3116059",
+    "number": "4",
+    "name": "4 Santiago Lima"
+  },
+  {
+    "photo": "/Player/Logo/3310043",
+    "number": "5",
+    "name": "5 Simao Barros"
+  },
+  {
+    "photo": "/Player/Logo/3310010",
+    "number": "8",
+    "name": "8 Angelo Costa"
+  },
+  {
+    "photo": "/Player/Logo/3310022",
+    "number": "10",
+    "name": "4                                                                                            10 Jose Matos"
+  },
+  {
+    "photo": "/Player/Logo/3310000",
+    "number": "11",
+    "name": "11 Tomás Sousa"
+  },
+  {
+    "photo": "/Player/Logo/2984918",
+    "number": "13",
+    "name": "13 Bernardo Vieira"
+  },
+  {
+    "photo": "/Player/Logo/3312204",
+    "number": "14",
+    "name": "14 Joao Pimenta"
+  },
+  {
+    "photo": "/Player/Logo/3310160",
+    "number": "16",
+    "name": "16 Ruben Sousa"
+  },
+  {
+    "photo": "/Player/Logo/3312383",
+    "number": "18",
+    "name": "18 Diogo Soutelo"
+  },
+  {
+    "photo": "/Player/Logo/3312097",
+    "number": "92",
+    "name": "92 Ricardo Pereira (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3347194",
+    "number": "6",
+    "name": "6 Edgar Carvalho"
+  },
+  {
+    "photo": "/Player/Logo/3347257",
+    "number": "12",
+    "name": "12 Guilherme Caldas (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3347554",
+    "number": "14",
+    "name": "14 Tiago Felgueiras"
+  },
+  {
+    "photo": "/Player/Logo/3347330",
+    "number": "15",
+    "name": "15 Octávio Silva"
+  },
+  {
+    "photo": "/Player/Logo/3347474",
+    "number": "17",
+    "name": "17 Tiago Duque"
+  },
+  {
+    "photo": "/Player/Logo/3347281",
+    "number": "18",
+    "name": "18 Manuel Almeida"
+  },
+  {
+    "photo": "/Player/Logo/3347173",
+    "number": "20",
+    "name": "20 Adriana Cruz"
+  },
+  {
+    "photo": "/Player/Logo/3313985",
+    "number": "1",
+    "name": "1 Micael Amorim (GR)"
+  },
+  {
+    "photo": "/Player/Logo/3312159",
+    "number": "3",
+    "name": "3 Martim Alves"
+  },
+  {
+    "photo": "/Player/Logo/3312171",
+    "number": "6",
+    "name": "6 Luis Matos"
+  },
+  {
+    "photo": "/Player/Logo/3312185",
+    "number": "7",
+    "name": "7 Diego Barroca"
+  },
+  {
+    "photo": "/Player/Logo/3313973",
+    "number": "9",
+    "name": "9 Rodrigo Silva"
+  },
+  {
+    "photo": "/Player/Logo/3312145",
+    "number": "15",
+    "name": "15 Martim Costa"
+  },
+  {
+    "photo": "/Player/Logo/3310175",
+    "number": "17",
+    "name": "2                                                                                                                            17 Rodrigo Sousa"
+  },
+  {
+    "photo": "/Player/Logo/2984932",
+    "number": "19",
+    "name": "19 Tomás Pereira"
+  },
+  {
+    "photo": "/Player/Logo/3312105",
+    "number": "20",
+    "name": "20 Miguel Menezes"
+  },
+  {
+    "photo": "/Player/Logo/3196530",
+    "name": "Treinador Principal                                Sergio Pombo Felgueiras"
+  },
+  {
+    "photo": "/Player/Logo/3174059",
+    "name": "Treinador Principal                                Rui Pedro Alves Maciel"
+  },
+  {
+    "photo": "/Player/Logo/3196532",
+    "name": "1º Delegado                                Tiago José Amoedo Oliveira Cruz"
+  },
+  {
+    "photo": "/Player/Logo/3196593",
+    "name": "Fisioterapeuta                                Filipe Esteves Cordeiro"
+  },
+  {
+    "photo": "/Player/Logo/1950677",
+    "name": "1º Delegado                                Pedro Manuel Lima Meneses"
+  },
+  {
+    "photo": "/Player/Logo/3084395",
+    "name": "Enfermeiro                                Ana Rita Mateus Sa"
+  },
+  {
+    "photo": "/Player/Logo/2971470",
+    "name": "Treinador Estagiário                                Joao Carlos Vieira Ferreira"
+  },
+  {
+    "photo": "/Images/icon-referee.png",
+    "number": "Arbitro",
+    "name": "Arbitro                             Hugo Gomes"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 1",
+    "name": "Arbitro Assistente 1                             Bruno Barros"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 2",
+    "name": "Arbitro Assistente 2                             Ricardo Lima"
+  }
+]

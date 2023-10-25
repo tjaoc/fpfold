@@ -1,14 +1,5 @@
 [
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975320",
-    "homeTeam": "Neves Fc \"A\"",
-    "stadium": "Campo Alferes Pinto Ribeiro - N.º 2",
-    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
-    "date": "22 out",
-    "hour": "",
-    "score": "1 - 2"
-  },
-  {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975324",
     "homeTeam": "Torre Sc",
     "stadium": "Campo Das Monções",
@@ -27,13 +18,22 @@
     "score": "1 - 0"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975322",
-    "homeTeam": "Cd Cerveira",
-    "stadium": "Estádio Municipal Rafael Pedreira",
-    "awayTeam": "Cc \"Os Torreenses\"",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975319",
+    "homeTeam": "Ud Moreira \"A\"",
+    "stadium": "Campo Tomada",
+    "awayTeam": "Âncora-Praia Fc",
     "date": "22 out",
     "hour": "",
-    "score": "1 - 0"
+    "score": "4 - 3"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975320",
+    "homeTeam": "Neves Fc \"A\"",
+    "stadium": "Campo Alferes Pinto Ribeiro - N.º 2",
+    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
+    "date": "22 out",
+    "hour": "",
+    "score": "1 - 2"
   },
   {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975321",
@@ -45,12 +45,12 @@
     "score": "8 - 0"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975319",
-    "homeTeam": "Ud Moreira \"A\"",
-    "stadium": "Campo Tomada",
-    "awayTeam": "Âncora-Praia Fc",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975322",
+    "homeTeam": "Cd Cerveira",
+    "stadium": "Estádio Municipal Rafael Pedreira",
+    "awayTeam": "Cc \"Os Torreenses\"",
     "date": "22 out",
     "hour": "",
-    "score": "4 - 3"
+    "score": "1 - 0"
   }
 ]

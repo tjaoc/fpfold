@@ -1,33 +1,6 @@
 [
   {
     "gameLink": "",
-    "homeTeam": "Cd Cerveira",
-    "stadium": "Estádio Municipal Rafael Pedreira",
-    "awayTeam": "Torre Sc",
-    "date": "25 fev",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Arc Guilhadeses",
-    "stadium": "Campo Padre Arieiro",
-    "awayTeam": "Ad \"Os Limianos\" \"A\"",
-    "date": "25 fev",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Adc Correlhã",
-    "stadium": "Campo Municipal Da Correlhã",
-    "awayTeam": "Ud Moreira \"A\"",
-    "date": "25 fev",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
     "homeTeam": "Sc Vianense \"B\"",
     "stadium": "Campo Nº 2 Estadio Dr José Matos",
     "awayTeam": "Neves Fc \"A\"",
@@ -49,6 +22,33 @@
     "homeTeam": "Ad Barroselas \"B\"",
     "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
     "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
+    "date": "25 fev",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Cd Cerveira",
+    "stadium": "Estádio Municipal Rafael Pedreira",
+    "awayTeam": "Torre Sc",
+    "date": "25 fev",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Adc Correlhã",
+    "stadium": "Campo Municipal Da Correlhã",
+    "awayTeam": "Ud Moreira \"A\"",
+    "date": "25 fev",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Arc Guilhadeses",
+    "stadium": "Campo Padre Arieiro",
+    "awayTeam": "Ad \"Os Limianos\" \"A\"",
     "date": "25 fev",
     "hour": "10:00",
     "score": " - - -"

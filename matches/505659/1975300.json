@@ -1,10 +1,192 @@
-{
-  "homeTeamLogo": "/Club/Logo/1426",
-  "homeTeamName": "Torre Sc",
-  "score": "6 - 2",
-  "awayTeamName": "Cc \"Os Torreenses\"",
-  "awayTeamLogo": "/Club/Logo/1014",
-  "homeTeamInfoGoals": "",
-  "awayTeamInfoGoals": "",
-  "players": []
-}
+[
+  {
+    "photo": "/Player/Logo/2940387",
+    "number": "2",
+    "name": "2 Gustavo Franco"
+  },
+  {
+    "photo": "/Player/Logo/2981245",
+    "number": "3",
+    "name": "3 Rúben Moreira"
+  },
+  {
+    "photo": "/Player/Logo/2954095",
+    "number": "4",
+    "name": "4 Gonçalo Felgueiras"
+  },
+  {
+    "photo": "/Player/Logo/2940292",
+    "number": "7",
+    "name": "2                                                                                                                            7 Denil Alves"
+  },
+  {
+    "photo": "/Player/Logo/2747280",
+    "number": "8",
+    "name": "8 Vasco Esteves"
+  },
+  {
+    "photo": "/Player/Logo/2940380",
+    "number": "9",
+    "name": "9 Gabriel Sequeira"
+  },
+  {
+    "photo": "/Player/Logo/2871752",
+    "number": "10",
+    "name": "10 Guilherme Oliveira"
+  },
+  {
+    "photo": "/Player/Logo/2970082",
+    "number": "11",
+    "name": "1                                                                                                                            11 Eduardo Cruz"
+  },
+  {
+    "photo": "/Player/Logo/3266572",
+    "number": "13",
+    "name": "13 Diogo Cunha"
+  },
+  {
+    "photo": "/Player/Logo/2981311",
+    "number": "17",
+    "name": "3                                                                                            17 Diogo Pinto"
+  },
+  {
+    "photo": "/Player/Logo/2940350",
+    "number": "22",
+    "name": "22 Rodrigo Pires (GR)"
+  },
+  {
+    "photo": "/Player/Logo/2904231",
+    "number": "3",
+    "name": "3 Afonso Temporão"
+  },
+  {
+    "photo": "/Player/Logo/1468758",
+    "number": "5",
+    "name": "5 David Lopes"
+  },
+  {
+    "photo": "/Player/Logo/2929809",
+    "number": "6",
+    "name": "6 Rodrigo Araujo"
+  },
+  {
+    "photo": "/Player/Logo/2929754",
+    "number": "7",
+    "name": "1                                                                                                                            7 Santiago Gomes"
+  },
+  {
+    "photo": "/Player/Logo/2904714",
+    "number": "9",
+    "name": "9 Miguel Esteves"
+  },
+  {
+    "photo": "/Player/Logo/2904226",
+    "number": "12",
+    "name": "12 Rodrigo Temporão (GR)"
+  },
+  {
+    "photo": "/Player/Logo/2904705",
+    "number": "15",
+    "name": "15 Tomas Caldas"
+  },
+  {
+    "photo": "/Player/Logo/3022867",
+    "number": "16",
+    "name": "16 Tomás Ferreira"
+  },
+  {
+    "photo": "/Player/Logo/3348546",
+    "number": "18",
+    "name": "1                                                                                            18 Nuno Duque"
+  },
+  {
+    "photo": "/Player/Logo/2929761",
+    "number": "19",
+    "name": "19 Diogo Marinho"
+  },
+  {
+    "photo": "/Player/Logo/2929786",
+    "number": "20",
+    "name": "20 Mateus Martins"
+  },
+  {
+    "photo": "/Player/Logo/2983012",
+    "number": "6",
+    "name": "6 Lourenço Queiroz"
+  },
+  {
+    "photo": "/Player/Logo/2981267",
+    "number": "14",
+    "name": "14 Jorge Vieites"
+  },
+  {
+    "photo": "/Player/Logo/2940383",
+    "number": "16",
+    "name": "16 Miguel Mesquita"
+  },
+  {
+    "photo": "/Player/Logo/2981221",
+    "number": "20",
+    "name": "20 Tomás Araújo"
+  },
+  {
+    "photo": "/Player/Logo/2979959",
+    "number": "1",
+    "name": "1 Gabriel Fernandes (GR)"
+  },
+  {
+    "photo": "/Player/Logo/2979951",
+    "number": "2",
+    "name": "2 Miguel Teixeira"
+  },
+  {
+    "photo": "/Player/Logo/2984966",
+    "number": "8",
+    "name": "8 Tiago Fuenteseca"
+  },
+  {
+    "photo": "/Player/Logo/2979948",
+    "number": "13",
+    "name": "13 Rafael Faria"
+  },
+  {
+    "photo": "/Player/Logo/2984971",
+    "number": "17",
+    "name": "17 Gonçalo Conde"
+  },
+  {
+    "photo": "/Player/Logo/3224120",
+    "name": "Treinador Principal                                Luis Manuel Vale Silva"
+  },
+  {
+    "photo": "/Player/Logo/3233629",
+    "name": "Treinador Principal                                Manuel Jose Cunha Fernandes Moura"
+  },
+  {
+    "photo": "/Player/Logo/3223241",
+    "name": "1º Delegado                                Hugo Alexandre Martins Da Cunha"
+  },
+  {
+    "photo": "/Player/Logo/3037668",
+    "name": "Treinador Estagiário                                Henrique Antonio Fonte Parente"
+  },
+  {
+    "photo": "/Player/Logo/3194639",
+    "name": "1º Delegado                                Henrique Manuel Barreiro Rodrigues"
+  },
+  {
+    "photo": "/Images/icon-referee.png",
+    "number": "Arbitro",
+    "name": "Arbitro                             Francisco Azevedo"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 1",
+    "name": "Arbitro Assistente 1                             Lucínio Alves"
+  },
+  {
+    "photo": "/Images/icon-assistant-referee.png",
+    "number": "Arbitro Assistente 2",
+    "name": "Arbitro Assistente 2                             Gonçalo Cruz"
+  }
+]

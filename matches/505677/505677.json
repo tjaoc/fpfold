@@ -1,15 +1,6 @@
 [
   {
     "gameLink": "",
-    "homeTeam": "Torre Sc",
-    "stadium": "Campo Das Monções",
-    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
-    "date": "18 fev",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
     "homeTeam": "Ad \"Os Limianos\" \"A\"",
     "stadium": "Campo Cruzeiro",
     "awayTeam": "Sc Vianense \"B\"",
@@ -28,9 +19,9 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Ud Moreira \"A\"",
-    "stadium": "Campo Tomada",
-    "awayTeam": "Cc \"Os Torreenses\"",
+    "homeTeam": "Torre Sc",
+    "stadium": "Campo Das Monções",
+    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
     "date": "18 fev",
     "hour": "10:00",
     "score": " - - -"
@@ -40,6 +31,15 @@
     "homeTeam": "Âncora-Praia Fc",
     "stadium": "Campo Paulino Velho Gomes",
     "awayTeam": "Ad Barroselas \"B\"",
+    "date": "18 fev",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Ud Moreira \"A\"",
+    "stadium": "Campo Tomada",
+    "awayTeam": "Cc \"Os Torreenses\"",
     "date": "18 fev",
     "hour": "10:00",
     "score": " - - -"
