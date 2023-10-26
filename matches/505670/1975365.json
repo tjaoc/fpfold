@@ -171,30 +171,37 @@
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3108401",
+    "number": "",
     "name": "Treinador Principal\r\n                                Daniel Souto Rodrigues"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3282543",
+    "number": "",
     "name": "Treinador Principal\r\n                                Dionisio Manuel Brito Pereira Gonçalves"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3153338",
+    "number": "",
     "name": "1º Delegado\r\n                                Ramiro Joel Ribeiro Goncalves"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3189505",
+    "number": "",
     "name": "2º Delegado\r\n                                Paulo Jorge Barreto Costa"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3108405",
+    "number": "",
     "name": "Técnico De Sbv-Dae\r\n                                Catarina Isabel Baptista Machado"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/2785991",
+    "number": "",
     "name": "1º Delegado\r\n                                Goncalo Caldas Calcada"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3102631",
+    "number": "",
     "name": "Enfermeiro\r\n                                Diana Rafaela Varajão Alves"
   },
   {
@@ -215,8 +222,8 @@
   {
     "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/560",
     "teamHome": "Ad Barroselas \"B\"",
-    "score": "\r\n                            3 - 1\r\n                    ",
-    "teamAway": "Ad Barroselas \"B\"",
-    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/560"
+    "score": "3 - 1",
+    "teamAway": "Adc Correlhã",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1007"
   }
 ]

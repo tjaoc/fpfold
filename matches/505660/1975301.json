@@ -161,22 +161,27 @@
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3189069",
+    "number": "",
     "name": "Treinador Principal\r\n                                Raquel Torres Castro"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3224120",
+    "number": "",
     "name": "Treinador Principal\r\n                                Luis Manuel Vale Silva"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3189095",
+    "number": "",
     "name": "Treinador Estagiário\r\n                                Silvestre Rodrigues Costa"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3223241",
+    "number": "",
     "name": "1º Delegado\r\n                                Hugo Alexandre Martins Da Cunha"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3037668",
+    "number": "",
     "name": "Treinador Estagiário\r\n                                Henrique Antonio Fonte Parente"
   },
   {
@@ -197,8 +202,8 @@
   {
     "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/1029",
     "teamHome": "Neves Fc \"A\"",
-    "score": "\r\n                            5 - 1\r\n                    ",
-    "teamAway": "Neves Fc \"A\"",
-    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1029"
+    "score": "5 - 1",
+    "teamAway": "Torre Sc",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1426"
   }
 ]

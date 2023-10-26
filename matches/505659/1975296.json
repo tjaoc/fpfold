@@ -166,22 +166,27 @@
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3194669",
+    "number": "",
     "name": "Treinador Principal\r\n                                Leandro Cunha Lourenco"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3196530",
+    "number": "",
     "name": "Treinador Principal\r\n                                Sergio Pombo Felgueiras"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3188946",
+    "number": "",
     "name": "1º Delegado\r\n                                José Pedro Branco Rodrigues"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3188995",
+    "number": "",
     "name": "2º Delegado\r\n                                Paulo Sergio Sousa Amorim"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3196532",
+    "number": "",
     "name": "1º Delegado\r\n                                Tiago José Amoedo Oliveira Cruz"
   },
   {
@@ -200,6 +205,10 @@
     "name": "Arbitro Assistente Sara Diana Alves"
   },
   {
-    "teamLogo": "https://resultados.fpf.pt/Club/Logo/398"
+    "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/398",
+    "teamHome": "Cd Cerveira",
+    "score": "0 - 6",
+    "teamAway": "Ud Moreira \"A\"",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/2849"
   }
 ]

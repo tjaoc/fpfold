@@ -138,18 +138,6 @@ const processDetails = async (filePath, folderRoot, matchFolderPath, matchId) =>
                                 const newImagePath = path.join(playersFolderPath, `${imageName}`);
                                 await downloadPlayerPhoto(player.photo, newImagePath);
                             }
-
-                            for (const team of gameResumeData) {
-                                if (team.teamHomeLogo && team.teamAwayLogo) {
-                                    const homeImageName = sanitizeFileName(path.basename(team.teamHomeLogo));
-                                    const homeNewImagePath = path.join(teamsLogoFolderPath, `${homeImageName}`);
-                                    await downloadTeamLogo(team.teamHomeLogo, homeNewImagePath);
-
-                                    const awayImageName = sanitizeFileName(path.basename(team.teamAwayLogo));
-                                    const awayNewImagePath = path.join(teamsLogoFolderPath, `${awayImageName}`);
-                                    await downloadTeamLogo(team.teamAwayLogo, awayNewImagePath);
-                                }
-                            }
                         }
                     } catch (error) {
                         console.error(`Error al obtener datos de ${item.gameLink}:`, error);

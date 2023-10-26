@@ -196,22 +196,27 @@
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3174652",
+    "number": "",
     "name": "Treinador Principal\r\n                                Carlos Filipe Lopes Ferreira"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3174732",
+    "number": "",
     "name": "Treinador Principal\r\n                                Carlos Manuel Ribeiro Costa"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3174675",
+    "number": "",
     "name": "1º Delegado\r\n                                Jaime Manuel Fernandes Pancha"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3256801",
+    "number": "",
     "name": "Fisioterapeuta\r\n                                Julio Duarte Ferraz Martins"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3153368",
+    "number": "",
     "name": "1º Delegado\r\n                                João Carlos Verde Moreira"
   },
   {
@@ -228,5 +233,12 @@
     "photo": "https://resultados.fpf.pt/Images/icon-assistant-referee.png",
     "number": "Arbitro Assistente 2",
     "name": "Arbitro Assistente João Brandão"
+  },
+  {
+    "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/2850",
+    "teamHome": "Arc Guilhadeses",
+    "score": "3 - 3",
+    "teamAway": "Âncora-Praia Fc",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1417"
   }
 ]
