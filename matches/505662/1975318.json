@@ -82,7 +82,7 @@
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/2982333",
     "number": "25",
-    "name": "25"
+    "name": "25 Vicente Brito"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3159838",
@@ -216,5 +216,8 @@
     "photo": "https://resultados.fpf.pt/Images/icon-assistant-referee.png",
     "number": "Arbitro Assistente 2",
     "name": "Arbitro Assistente Alexandre Cerqueira"
+  },
+  {
+    "teamLogo": "https://resultados.fpf.pt/Club/Logo/1007"
   }
 ]

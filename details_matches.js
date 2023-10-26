@@ -100,38 +100,37 @@ const processDetails = async (filePath, folderRoot, matchFolderPath, matchId) =>
                         const response = await axios.get(sanitizedUrl);
                         const html = response.data;
                         const root = parse(html);
-                        const players = root.querySelectorAll(".player");
-                        const playerData = [];
-                        const teamLogoData = [];
+                        const gameResumeData = [];
 
+                        const players = root.querySelectorAll(".player");
                         for (const player of players) {
                             const photo = sanitizeUrl(player.querySelector("img").getAttribute("src"));
                             const number = player.querySelector("strong")?.textContent;
                             const name = player.textContent.replace(/\d+\s+/, "").trim();
-                            playerData.push({ photo, number, name });
+                            gameResumeData.push({ photo, number, name });
                         }
 
                         const teams = root.querySelectorAll(".section-title.game-resume");
 
                         for (const team of teams) {
                             const teamLogo = sanitizeUrl(team.querySelector("img").getAttribute("src"));
-                            teamLogoData.push({ teamLogo });
+                            gameResumeData.push({ teamLogo });
                         }
 
-                        if (playerData.length > 0 && teamLogoData.length > 0) {
+                        if (gameResumeData.length > 0) {
                             const name = sanitizeFileName(item.gameLink.split("matchId=")[1].split("&")[0]);
                             const detailsFilePath = path.join(matchFolderPath, `${name}.json`);
-                            await fs.writeFile(detailsFilePath, JSON.stringify(playerData, null, 2));
+                            await fs.writeFile(detailsFilePath, JSON.stringify(gameResumeData, null, 2));
                             const playersFolderPath = path.join(folderRoot, "players");
                             const teamsLogoFolderPath = path.join(folderRoot, "teams_logos");
 
-                            for (const player of playerData) {
+                            for (const player of gameResumeData) {
                                 const imageName = sanitizeFileName(path.basename(player.photo));
                                 const newImagePath = path.join(playersFolderPath, `${imageName}`);
                                 await downloadPlayerPhoto(player.photo, newImagePath);
                             }
 
-                            for (const team of teamLogoData) {
+                            for (const team of gameResumeData) {
                                 if (team.teamLogo) {
                                     const imageName = sanitizeFileName(path.basename(team.teamLogo));
                                     const newImagePath = path.join(teamsLogoFolderPath, `${imageName}`);

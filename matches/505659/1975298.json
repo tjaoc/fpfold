@@ -22,7 +22,7 @@
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/2982333",
     "number": "25",
-    "name": ""
+    "name": "Vicente Brito"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3103324",
@@ -206,5 +206,8 @@
     "photo": "https://resultados.fpf.pt/Images/icon-assistant-referee.png",
     "number": "Arbitro Assistente 2",
     "name": "Arbitro Assistente Rodrigo Vieira"
+  },
+  {
+    "teamLogo": "https://resultados.fpf.pt/Club/Logo/499"
   }
 ]

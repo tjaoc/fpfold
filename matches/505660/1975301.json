@@ -37,7 +37,7 @@
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/2853808",
     "number": "77",
-    "name": ""
+    "name": "Diogo Silva"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/2853789",
@@ -193,5 +193,8 @@
     "photo": "https://resultados.fpf.pt/Images/icon-assistant-referee.png",
     "number": "Arbitro Assistente 2",
     "name": "Arbitro Assistente Luis Lopes"
+  },
+  {
+    "teamLogo": "https://resultados.fpf.pt/Club/Logo/1029"
   }
 ]
