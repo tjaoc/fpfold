@@ -218,6 +218,10 @@
     "name": "Arbitro Assistente Alexandre Cerqueira"
   },
   {
-    "teamLogo": "https://resultados.fpf.pt/Club/Logo/1007"
+    "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/1007",
+    "teamHome": "Adc Correlhã",
+    "score": "\r\n                            4 - 1\r\n                    ",
+    "teamAway": "Adc Correlhã",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1007"
   }
 ]

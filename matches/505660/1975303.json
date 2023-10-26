@@ -203,5 +203,12 @@
     "photo": "https://resultados.fpf.pt/Images/icon-assistant-referee.png",
     "number": "Arbitro Assistente 2",
     "name": "Arbitro Assistente Gonçalo Rodrigues"
+  },
+  {
+    "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/1417",
+    "teamHome": "Âncora-Praia Fc",
+    "score": "\r\n                            4 - 2\r\n                    ",
+    "teamAway": "Âncora-Praia Fc",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1417"
   }
 ]

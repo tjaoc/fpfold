@@ -223,5 +223,12 @@
     "photo": "https://resultados.fpf.pt/Images/icon-assistant-referee.png",
     "number": "Arbitro Assistente 2",
     "name": "Arbitro Assistente José Lopes"
+  },
+  {
+    "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/2850",
+    "teamHome": "Arc Guilhadeses",
+    "score": "\r\n                            6 - 0\r\n                    ",
+    "teamAway": "Arc Guilhadeses",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/2850"
   }
 ]

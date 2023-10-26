@@ -231,5 +231,12 @@
     "photo": "https://resultados.fpf.pt/Images/icon-assistant-referee.png",
     "number": "Arbitro Assistente 2",
     "name": "Arbitro Assistente João Paulo Freitas"
+  },
+  {
+    "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/2844",
+    "teamHome": "Ad \"Os Limianos\" \"A\"",
+    "score": "\r\n                            8 - 0\r\n                    ",
+    "teamAway": "Ad \"Os Limianos\" \"A\"",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/2844"
   }
 ]
