@@ -9,6 +9,15 @@
     "score": "4 - 1"
   },
   {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975313",
+    "homeTeam": "Ud Moreira \"A\"",
+    "stadium": "Campo Tomada",
+    "awayTeam": "Torre Sc",
+    "date": "15 out",
+    "hour": "",
+    "score": "4 - 1"
+  },
+  {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975314",
     "homeTeam": "Âncora-Praia Fc",
     "stadium": "Campo Paulino Velho Gomes",
@@ -18,22 +27,13 @@
     "score": "4 - 1"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975316",
-    "homeTeam": "Ad Barroselas \"B\"",
-    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
-    "awayTeam": "Cd Cerveira",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975317",
+    "homeTeam": "Cc \"Os Torreenses\"",
+    "stadium": "Campo Da Cruz",
+    "awayTeam": "Arc Guilhadeses",
     "date": "15 out",
     "hour": "",
-    "score": "2 - 1"
-  },
-  {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975313",
-    "homeTeam": "Ud Moreira \"A\"",
-    "stadium": "Campo Tomada",
-    "awayTeam": "Torre Sc",
-    "date": "15 out",
-    "hour": "",
-    "score": "4 - 1"
+    "score": "0 - 9"
   },
   {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975315",
@@ -45,12 +45,12 @@
     "score": "1 - 4"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975317",
-    "homeTeam": "Cc \"Os Torreenses\"",
-    "stadium": "Campo Da Cruz",
-    "awayTeam": "Arc Guilhadeses",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975316",
+    "homeTeam": "Ad Barroselas \"B\"",
+    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
+    "awayTeam": "Cd Cerveira",
     "date": "15 out",
     "hour": "",
-    "score": "0 - 9"
+    "score": "2 - 1"
   }
 ]

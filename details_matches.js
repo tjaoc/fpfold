@@ -13,7 +13,7 @@ const downloadPlayerPhoto = async (imageUrl, imagePath) => {
         const newImagePath = path.join(playersFolderPath, `${imageName}.png`);
         await fs.writeFile(newImagePath, response.data);
     } catch (error) {
-        console.error(`Error downloading image: ${imageUrl}`, error);
+        console.error(`Error al descargar la imagen: ${imageUrl}`, error);
     }
 };
 
@@ -26,7 +26,7 @@ const downloadTeamLogo = async (imageUrl, imagePath) => {
         const newImagePath = path.join(teamsLogoFolderPath, `${imageName}.png`);
         await fs.writeFile(newImagePath, response.data);
     } catch (error) {
-        console.error(`Error downloading team logo: ${imageUrl}`, error);
+        console.error(`Error al descargar el logo del equipo: ${imageUrl}`, error);
     }
 };
 
@@ -35,13 +35,13 @@ const saveDetails = async (folderRoot) => {
     try {
         await fs.mkdir(playersFolderPath, { recursive: true });
     } catch (error) {
-        console.error(`Error creating players folder: ${playersFolderPath}`, error);
+        console.error(`Error al crear la carpeta de jugadores: ${playersFolderPath}`, error);
     }
 
     const matchesFolderPath = path.join(__dirname, "matches");
     try {
         const files = await fs.readdir(matchesFolderPath, { withFileTypes: true });
-        for (const file of files) {
+        await Promise.all(files.map(async (file) => {
             const filePath = path.join(matchesFolderPath, file.name);
             if (file.isFile() && file.name.endsWith(".json")) {
                 const matchId = file.name.split(".")[0];
@@ -50,25 +50,25 @@ const saveDetails = async (folderRoot) => {
             } else if (file.isDirectory()) {
                 await processSubdirectory(filePath, folderRoot, matchesFolderPath);
             }
-        }
+        }));
     } catch (error) {
-        console.error(`Error reading matches folder: ${matchesFolderPath}`, error);
+        console.error(`Error al leer la carpeta de partidos: ${matchesFolderPath}`, error);
     }
 };
 
 const processSubdirectory = async (directoryPath, folderRoot, matchesFolderPath) => {
     try {
         const subFiles = await fs.readdir(directoryPath, { withFileTypes: true });
-        for (const subFile of subFiles) {
+        await Promise.all(subFiles.map(async (subFile) => {
             const subFilePath = path.join(directoryPath, subFile.name);
             if (subFile.isFile() && subFile.name.endsWith(".json")) {
                 const matchId = subFile.name.split(".")[0];
                 const matchFolderPath = path.join(matchesFolderPath, matchId);
                 await processDetails(subFilePath, folderRoot, matchFolderPath, matchId);
             }
-        }
+        }));
     } catch (error) {
-        console.error(`Error reading subdirectory: ${directoryPath}`, error);
+        console.error(`Error al leer el subdirectorio: ${directoryPath}`, error);
     }
 };
 
@@ -77,34 +77,25 @@ const processDetails = async (filePath, folderRoot, matchFolderPath, matchId) =>
         const fileData = await fs.readFile(filePath, "utf8");
         const jsonData = JSON.parse(fileData);
         if (Array.isArray(jsonData)) {
-            for (const item of jsonData) {
+            await Promise.all(jsonData.map(async (item) => {
                 if (item.gameLink) {
                     try {
-                        // Add a delay of 1 second before making the request
-                        await new Promise(resolve => setTimeout(resolve, 1000));
-
                         const response = await axios.get(item.gameLink);
                         const html = response.data;
                         const root = parse(html);
+
                         const players = root.querySelectorAll(".player");
-                        const playerData = []; // Declare playerData variable
-                        players.forEach((player) => {
+                        const playerData = players.map((player) => {
                             const photo = player.querySelector("img").getAttribute("src");
                             const number = player.querySelector("strong")?.textContent;
                             const name = player.textContent.replace(/\d+\s+/, "").trim();
-                            playerData.push({
-                                photo,
-                                number,
-                                name
-                            });
+                            return { photo, number, name };
                         });
-                        const teamLogoData = [];
+
                         const teams = root.querySelectorAll(".section-title.game-resume");
-                        teams.forEach((team) => {
+                        const teamLogoData = teams.map((team) => {
                             const teamLogo = team.querySelector("img").getAttribute("src");
-                            teamLogoData.push({
-                                teamLogo
-                            });
+                            return { teamLogo };
                         });
 
                         if (playerData.length > 0 && teamLogoData.length > 0) {
@@ -112,32 +103,35 @@ const processDetails = async (filePath, folderRoot, matchFolderPath, matchId) =>
                             const detailsFilePath = path.join(matchFolderPath, `${name}.json`);
                             await fs.writeFile(detailsFilePath, JSON.stringify(playerData, null, 2));
 
-                            // Descargar las imágenes
                             const playersFolderPath = path.join(folderRoot, "players");
                             await fs.mkdir(playersFolderPath, { recursive: true });
-                            for (const player of playerData) {
+
+                            await Promise.all(playerData.map(async (player) => {
                                 const imageName = path.basename(player.photo);
                                 const newImagePath = path.join(playersFolderPath, `${imageName}`);
                                 await downloadPlayerPhoto(player.photo, newImagePath);
-                            }
+                            }));
+
                             const teamsLogoFolderPath = path.join(folderRoot, "teams_logos");
                             await fs.mkdir(teamsLogoFolderPath, { recursive: true });
-                            for (const team of teamLogoData) {
+
+                            await Promise.all(teamLogoData.map(async (team) => {
                                 if (team.teamLogo) {
                                     const imageName = path.basename(team.teamLogo);
                                     const newImagePath = path.join(teamsLogoFolderPath, `${imageName}`);
                                     await downloadTeamLogo(team.teamLogo, newImagePath);
                                 }
-                            }
+                            }));
                         }
                     } catch (error) {
-                        console.error(`Error fetching data from ${item.gameLink}:`, error);
+                        console.error(`Error al obtener datos de ${item.gameLink}:`, error);
                     }
                 }
-            }
+            }));
         }
     } catch (error) {
-        console.error(`Error reading file: ${filePath}`, error);
+        console.error(`Error al leer el archivo: ${filePath}`, error);
     }
 };
+
 module.exports = saveDetails;
