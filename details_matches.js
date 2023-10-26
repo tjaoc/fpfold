@@ -113,10 +113,9 @@ const processDetails = async (filePath, folderRoot, matchFolderPath, matchId) =>
                         const teams = root.querySelectorAll(".section-title.game-resume");
                         for (const team of teams) {
                             const teamHomeLogo = sanitizeUrl(team.querySelector("div:nth-child(1) img").getAttribute("src"));
-                            const teamHome = team.querySelector("div:nth-child(3) strong").textContent;
-                            const score = team.querySelector("div:nth-child(4)").textContent.trim();
-                            const teamText = team.childNodes[0].textContent;
-                            const teamAway = teamText.substring(teamText.lastIndexOf(score) + score.length).trim();
+                            const teamHome = team.querySelector("div:nth-child(2) strong").textContent;
+                            const score = team.querySelector("div:nth-child(3)").textContent.trim();
+                            const teamAway = team.querySelector("div:nth-child(4) strong").textContent;
                             const teamAwayLogo = sanitizeUrl(team.querySelector("div:nth-child(5) img").getAttribute("src"));
                             gameResumeData.push({
                                 teamHomeLogo,

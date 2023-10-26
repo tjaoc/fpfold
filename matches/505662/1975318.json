@@ -176,30 +176,37 @@
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3282543",
+    "number": "",
     "name": "Treinador Principal\r\n                                Dionisio Manuel Brito Pereira Gonçalves"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3146451",
+    "number": "",
     "name": "Treinador Principal\r\n                                Duarte Nuno Presa Pereira"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3307924",
+    "number": "",
     "name": "Preparador Fisico\r\n                                Josinaldo Figueiredo Da Silva"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/2785991",
+    "number": "",
     "name": "1º Delegado\r\n                                Goncalo Caldas Calcada"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3102635",
+    "number": "",
     "name": "Fisioterapeuta\r\n                                Cátia Guimarães Oliveira"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3221800",
+    "number": "",
     "name": "1º Delegado\r\n                                João Miguel Amorim Ribeiro"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3075797",
+    "number": "",
     "name": "Enfermeiro\r\n                                Pedro Antonio Trigo Bordalo Morais"
   },
   {
@@ -219,9 +226,9 @@
   },
   {
     "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/1007",
-    "teamHome": "Adc Correlhã",
-    "score": "\r\n                            4 - 1\r\n                    ",
-    "teamAway": "Adc Correlhã",
-    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1007"
+    "teamHome": "4 - 1",
+    "score": "Sc Vianense \"B\"",
+    "teamAway": "",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/499"
   }
 ]

@@ -191,26 +191,32 @@
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3174652",
+    "number": "",
     "name": "Treinador Principal\r\n                                Carlos Filipe Lopes Ferreira"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3282543",
+    "number": "",
     "name": "Treinador Principal\r\n                                Dionisio Manuel Brito Pereira Gonçalves"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3174675",
+    "number": "",
     "name": "1º Delegado\r\n                                Jaime Manuel Fernandes Pancha"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3174722",
+    "number": "",
     "name": "1º Delegado\r\n                                Tiago Jose Caldas Calcada"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3307924",
+    "number": "",
     "name": "2º Delegado\r\n                                Josinaldo Figueiredo Da Silva"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3102631",
+    "number": "",
     "name": "Enfermeiro\r\n                                Diana Rafaela Varajão Alves"
   },
   {
@@ -230,9 +236,9 @@
   },
   {
     "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/2850",
-    "teamHome": "Arc Guilhadeses",
-    "score": "\r\n                            1 - 0\r\n                    ",
-    "teamAway": "Arc Guilhadeses",
-    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/2850"
+    "teamHome": "1 - 0",
+    "score": "Adc Correlhã",
+    "teamAway": "",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1007"
   }
 ]

@@ -136,22 +136,27 @@
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3194669",
+    "number": "",
     "name": "Treinador Principal\r\n                                Leandro Cunha Lourenco"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3188946",
+    "number": "",
     "name": "1º Delegado\r\n                                José Pedro Branco Rodrigues"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3233629",
+    "number": "",
     "name": "1º Delegado\r\n                                Manuel Jose Cunha Fernandes Moura"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3189596",
+    "number": "",
     "name": "2º Delegado\r\n                                Joao Paulo Conde Rodrigues"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3194619",
+    "number": "",
     "name": "Treinador Estagiário\r\n                                Cristiano Joao Goncalves Pereira"
   },
   {
@@ -172,8 +177,8 @@
   {
     "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/398",
     "teamHome": "Cd Cerveira",
-    "score": "\r\n                            1 - 0\r\n                    ",
-    "teamAway": "Cd Cerveira",
-    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/398"
+    "score": "1 - 0",
+    "teamAway": "Cc \"Os Torreenses\"",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1014"
   }
 ]

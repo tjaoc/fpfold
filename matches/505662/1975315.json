@@ -171,30 +171,37 @@
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3157743",
+    "number": "",
     "name": "Treinador Principal\r\n                                Andre Filipe Lomba Xavier"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3174059",
+    "number": "",
     "name": "Treinador Principal\r\n                                Rui Pedro Alves Maciel"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3197071",
+    "number": "",
     "name": "Treinador Adjunto\r\n                                Marcio Trindade Laranjeira"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3157736",
+    "number": "",
     "name": "Massagista\r\n                                Cesar Miguel Castro Oliveira"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3107189",
+    "number": "",
     "name": "Treinador Adjunto\r\n                                Paulo Cesar Lima Pereira Meneses"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/1950677",
+    "number": "",
     "name": "1º Delegado\r\n                                Pedro Manuel Lima Meneses"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/2971470",
+    "number": "",
     "name": "Treinador Estagiário\r\n                                Joao Carlos Vieira Ferreira"
   },
   {
@@ -215,8 +222,8 @@
   {
     "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/1030",
     "teamHome": "Perspectiva Em Jogo Ad \"A\"",
-    "score": "\r\n                            1 - 4\r\n                    ",
-    "teamAway": "Perspectiva Em Jogo Ad \"A\"",
-    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1030"
+    "score": "1 - 4",
+    "teamAway": "Ad \"Os Limianos\" \"A\"",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/2844"
   }
 ]

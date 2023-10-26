@@ -191,22 +191,27 @@
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3174652",
+    "number": "",
     "name": "Treinador Principal\r\n                                Carlos Filipe Lopes Ferreira"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3108401",
+    "number": "",
     "name": "Treinador Principal\r\n                                Daniel Souto Rodrigues"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3174675",
+    "number": "",
     "name": "1º Delegado\r\n                                Jaime Manuel Fernandes Pancha"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3256801",
+    "number": "",
     "name": "Fisioterapeuta\r\n                                Julio Duarte Ferraz Martins"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3189505",
+    "number": "",
     "name": "1º Delegado\r\n                                Paulo Jorge Barreto Costa"
   },
   {
@@ -226,9 +231,9 @@
   },
   {
     "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/2850",
-    "teamHome": "Arc Guilhadeses",
-    "score": "\r\n                            6 - 0\r\n                    ",
-    "teamAway": "Arc Guilhadeses",
-    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/2850"
+    "teamHome": "6 - 0",
+    "score": "Ad Barroselas \"B\"",
+    "teamAway": "",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/560"
   }
 ]

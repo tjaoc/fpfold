@@ -161,22 +161,27 @@
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3282543",
+    "number": "",
     "name": "Treinador Principal\r\n                                Dionisio Manuel Brito Pereira Gonçalves"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3194626",
+    "number": "",
     "name": "1º Delegado\r\n                                Jorge Miguel Borges Fernandes"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3194639",
+    "number": "",
     "name": "2º Delegado\r\n                                Henrique Manuel Barreiro Rodrigues"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3174722",
+    "number": "",
     "name": "1º Delegado\r\n                                Tiago Jose Caldas Calcada"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3102631",
+    "number": "",
     "name": "Enfermeiro\r\n                                Diana Rafaela Varajão Alves"
   },
   {
@@ -197,8 +202,8 @@
   {
     "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/1014",
     "teamHome": "Cc \"Os Torreenses\"",
-    "score": "\r\n                            1 - 2\r\n                    ",
-    "teamAway": "Cc \"Os Torreenses\"",
-    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1014"
+    "score": "1 - 2",
+    "teamAway": "Adc Correlhã",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1007"
   }
 ]
