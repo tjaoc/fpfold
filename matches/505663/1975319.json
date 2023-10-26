@@ -237,6 +237,10 @@
     "name": "Arbitro Assistente Cláudia Tomás"
   },
   {
-    "teamLogo": "https://resultados.fpf.pt/Club/Logo/2849"
+    "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/2849",
+    "teamHome": "Ud Moreira \"A\"",
+    "score": "\r\n                            4 - 3\r\n                    ",
+    "teamAway": "Ud Moreira \"A\"",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/2849"
   }
 ]

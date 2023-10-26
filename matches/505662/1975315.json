@@ -213,6 +213,10 @@
     "name": "Arbitro Assistente Ezequiel Martins"
   },
   {
-    "teamLogo": "https://resultados.fpf.pt/Club/Logo/1030"
+    "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/1030",
+    "teamHome": "Perspectiva Em Jogo Ad \"A\"",
+    "score": "\r\n                            1 - 4\r\n                    ",
+    "teamAway": "Perspectiva Em Jogo Ad \"A\"",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1030"
   }
 ]

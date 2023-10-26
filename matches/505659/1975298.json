@@ -208,6 +208,10 @@
     "name": "Arbitro Assistente Rodrigo Vieira"
   },
   {
-    "teamLogo": "https://resultados.fpf.pt/Club/Logo/499"
+    "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/499",
+    "teamHome": "Sc Vianense \"B\"",
+    "score": "\r\n                            1 - 2\r\n                    ",
+    "teamAway": "Sc Vianense \"B\"",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/499"
   }
 ]

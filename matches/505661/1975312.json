@@ -197,5 +197,12 @@
     "photo": "https://resultados.fpf.pt/Images/icon-assistant-referee.png",
     "number": "Arbitro Assistente 2",
     "name": "Arbitro Assistente Jorge Castanho"
+  },
+  {
+    "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/1426",
+    "teamHome": "Torre Sc",
+    "score": "\r\n                            0 - 2\r\n                    ",
+    "teamAway": "Torre Sc",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1426"
   }
 ]

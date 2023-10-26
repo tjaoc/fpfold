@@ -168,5 +168,12 @@
     "photo": "https://resultados.fpf.pt/Images/icon-assistant-referee.png",
     "number": "Arbitro Assistente 2",
     "name": "Arbitro Assistente João Valentim"
+  },
+  {
+    "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/398",
+    "teamHome": "Cd Cerveira",
+    "score": "\r\n                            1 - 0\r\n                    ",
+    "teamAway": "Cd Cerveira",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/398"
   }
 ]

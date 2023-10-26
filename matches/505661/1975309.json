@@ -186,6 +186,10 @@
     "name": "Arbitro Assistente Ian Martins"
   },
   {
-    "teamLogo": "https://resultados.fpf.pt/Club/Logo/398"
+    "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/398",
+    "teamHome": "Cd Cerveira",
+    "score": "\r\n                            0 - 4\r\n                    ",
+    "teamAway": "Cd Cerveira",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/398"
   }
 ]

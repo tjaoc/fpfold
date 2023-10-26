@@ -208,6 +208,10 @@
     "name": "Arbitro Assistente Rodrigo Vieira"
   },
   {
-    "teamLogo": "https://resultados.fpf.pt/Club/Logo/2849"
+    "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/2849",
+    "teamHome": "Ud Moreira \"A\"",
+    "score": "\r\n                            4 - 1\r\n                    ",
+    "teamAway": "Ud Moreira \"A\"",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/2849"
   }
 ]

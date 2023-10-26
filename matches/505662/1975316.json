@@ -181,6 +181,10 @@
     "name": "Arbitro Assistente Raúl Parente"
   },
   {
-    "teamLogo": "https://resultados.fpf.pt/Club/Logo/560"
+    "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/560",
+    "teamHome": "Ad Barroselas \"B\"",
+    "score": "\r\n                            2 - 1\r\n                    ",
+    "teamAway": "Ad Barroselas \"B\"",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/560"
   }
 ]

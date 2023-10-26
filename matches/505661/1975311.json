@@ -208,6 +208,10 @@
     "name": "Arbitro Assistente Fábio Meira"
   },
   {
-    "teamLogo": "https://resultados.fpf.pt/Club/Logo/499"
+    "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/499",
+    "teamHome": "Sc Vianense \"B\"",
+    "score": "\r\n                            3 - 1\r\n                    ",
+    "teamAway": "Sc Vianense \"B\"",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/499"
   }
 ]

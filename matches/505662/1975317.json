@@ -208,5 +208,12 @@
     "photo": "https://resultados.fpf.pt/Images/icon-assistant-referee.png",
     "number": "Arbitro Assistente 2",
     "name": "Arbitro Assistente Rui Machado"
+  },
+  {
+    "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/1014",
+    "teamHome": "Cc \"Os Torreenses\"",
+    "score": "\r\n                            0 - 9\r\n                    ",
+    "teamAway": "Cc \"Os Torreenses\"",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1014"
   }
 ]

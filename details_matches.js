@@ -113,8 +113,19 @@ const processDetails = async (filePath, folderRoot, matchFolderPath, matchId) =>
                         const teams = root.querySelectorAll(".section-title.game-resume");
 
                         for (const team of teams) {
-                            const teamLogo = sanitizeUrl(team.querySelector("img").getAttribute("src"));
-                            gameResumeData.push({ teamLogo });
+                            const teamHomeLogo = sanitizeUrl(team.querySelector("img").getAttribute("src"));
+                            const teamHome = team.querySelector("strong").textContent;
+                            const score = team.querySelector(".text-center").textContent;
+                            const teamAway = team.querySelector("strong:last-child").textContent;
+                            const teamAwayLogo = sanitizeUrl(team.querySelector("img:last-child").getAttribute("src"));
+
+                            gameResumeData.push({
+                                teamHomeLogo,
+                                teamHome,
+                                score,
+                                teamAway,
+                                teamAwayLogo
+                            });
                         }
 
                         if (gameResumeData.length > 0) {
@@ -131,10 +142,14 @@ const processDetails = async (filePath, folderRoot, matchFolderPath, matchId) =>
                             }
 
                             for (const team of gameResumeData) {
-                                if (team.teamLogo) {
-                                    const imageName = sanitizeFileName(path.basename(team.teamLogo));
-                                    const newImagePath = path.join(teamsLogoFolderPath, `${imageName}`);
-                                    await downloadTeamLogo(team.teamLogo, newImagePath);
+                                if (team.teamHomeLogo && team.teamAwayLogo) {
+                                    const homeImageName = sanitizeFileName(path.basename(team.teamHomeLogo));
+                                    const homeNewImagePath = path.join(teamsLogoFolderPath, `${homeImageName}`);
+                                    await downloadTeamLogo(team.teamHomeLogo, homeNewImagePath);
+
+                                    const awayImageName = sanitizeFileName(path.basename(team.teamAwayLogo));
+                                    const awayNewImagePath = path.join(teamsLogoFolderPath, `${awayImageName}`);
+                                    await downloadTeamLogo(team.teamAwayLogo, awayNewImagePath);
                                 }
                             }
                         }

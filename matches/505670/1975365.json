@@ -213,6 +213,10 @@
     "name": "Arbitro Assistente Ezequiel Martins"
   },
   {
-    "teamLogo": "https://resultados.fpf.pt/Club/Logo/560"
+    "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/560",
+    "teamHome": "Ad Barroselas \"B\"",
+    "score": "\r\n                            3 - 1\r\n                    ",
+    "teamAway": "Ad Barroselas \"B\"",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/560"
   }
 ]

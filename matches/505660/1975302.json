@@ -233,6 +233,10 @@
     "name": "Arbitro Assistente Ricardo Lima"
   },
   {
-    "teamLogo": "https://resultados.fpf.pt/Club/Logo/2849"
+    "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/2849",
+    "teamHome": "Ud Moreira \"A\"",
+    "score": "\r\n                            0 - 6\r\n                    ",
+    "teamAway": "Ud Moreira \"A\"",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/2849"
   }
 ]

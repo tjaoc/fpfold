@@ -195,6 +195,10 @@
     "name": "Arbitro Assistente Luis Lopes"
   },
   {
-    "teamLogo": "https://resultados.fpf.pt/Club/Logo/1029"
+    "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/1029",
+    "teamHome": "Neves Fc \"A\"",
+    "score": "\r\n                            5 - 1\r\n                    ",
+    "teamAway": "Neves Fc \"A\"",
+    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1029"
   }
 ]
