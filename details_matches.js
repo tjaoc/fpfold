@@ -29,8 +29,6 @@ const downloadPlayerPhoto = async (imageUrl, imagePath) => {
         await fs.writeFile(newImagePath, response.data);
     } catch (error) {
         console.error(`Error al descargar la imagen: ${imageUrl}`, error);
-        // Tomar medidas adicionales en caso de error
-        // ...
     }
 };
 
@@ -45,8 +43,6 @@ const downloadTeamLogo = async (imageUrl, imagePath) => {
         await fs.writeFile(newImagePath, response.data);
     } catch (error) {
         console.error(`Error al descargar el logo del equipo: ${imageUrl}`, error);
-        // Tomar medidas adicionales en caso de error
-        // ...
     }
 };
 
@@ -56,14 +52,12 @@ const saveDetails = async (folderRoot) => {
         await fs.mkdir(playersFolderPath, { recursive: true });
     } catch (error) {
         console.error(`Error al crear la carpeta de jugadores: ${playersFolderPath}`, error);
-        // Tomar medidas adicionales en caso de error
-        // ...
     }
 
     const matchesFolderPath = path.join(__dirname, "matches");
     try {
         const files = await fs.readdir(matchesFolderPath, { withFileTypes: true });
-        await Promise.all(files.map(async (file) => {
+        for (const file of files) {
             const filePath = path.join(matchesFolderPath, file.name);
             if (file.isFile() && file.name.endsWith(".json")) {
                 const matchId = file.name.split(".")[0];
@@ -72,29 +66,25 @@ const saveDetails = async (folderRoot) => {
             } else if (file.isDirectory()) {
                 await processSubdirectory(filePath, folderRoot, matchesFolderPath);
             }
-        }));
+        }
     } catch (error) {
         console.error(`Error al leer la carpeta de partidos: ${matchesFolderPath}`, error);
-        // Tomar medidas adicionales en caso de error
-        // ...
     }
 };
 
 const processSubdirectory = async (directoryPath, folderRoot, matchesFolderPath) => {
     try {
         const subFiles = await fs.readdir(directoryPath, { withFileTypes: true });
-        await Promise.all(subFiles.map(async (subFile) => {
+        for (const subFile of subFiles) {
             const subFilePath = path.join(directoryPath, subFile.name);
             if (subFile.isFile() && subFile.name.endsWith(".json")) {
                 const matchId = subFile.name.split(".")[0];
                 const matchFolderPath = path.join(matchesFolderPath, matchId);
                 await processDetails(subFilePath, folderRoot, matchFolderPath, matchId);
             }
-        }));
+        }
     } catch (error) {
         console.error(`Error al leer el subdirectorio: ${directoryPath}`, error);
-        // Tomar medidas adicionales en caso de error
-        // ...
     }
 };
 
@@ -103,7 +93,7 @@ const processDetails = async (filePath, folderRoot, matchFolderPath, matchId) =>
         const fileData = await fs.readFile(filePath, "utf8");
         const jsonData = JSON.parse(fileData);
         if (Array.isArray(jsonData)) {
-            await Promise.all(jsonData.map(async (item) => {
+            for (const item of jsonData) {
                 if (item.gameLink) {
                     try {
                         const sanitizedUrl = sanitizeUrl(item.gameLink);
@@ -113,48 +103,50 @@ const processDetails = async (filePath, folderRoot, matchFolderPath, matchId) =>
                         const players = root.querySelectorAll(".player");
                         const playerData = [];
                         const teamLogoData = [];
-                        players.forEach((player) => {
+
+                        for (const player of players) {
                             const photo = sanitizeUrl(player.querySelector("img").getAttribute("src"));
                             const number = player.querySelector("strong")?.textContent;
                             const name = player.textContent.replace(/\d+\s+/, "").trim();
                             playerData.push({ photo, number, name });
-                        });
+                        }
+
                         const teams = root.querySelectorAll(".section-title.game-resume");
-                        teams.forEach((team) => {
+
+                        for (const team of teams) {
                             const teamLogo = sanitizeUrl(team.querySelector("img").getAttribute("src"));
                             teamLogoData.push({ teamLogo });
-                        });
+                        }
+
                         if (playerData.length > 0 && teamLogoData.length > 0) {
                             const name = sanitizeFileName(item.gameLink.split("matchId=")[1].split("&")[0]);
                             const detailsFilePath = path.join(matchFolderPath, `${name}.json`);
                             await fs.writeFile(detailsFilePath, JSON.stringify(playerData, null, 2));
                             const playersFolderPath = path.join(folderRoot, "players");
                             const teamsLogoFolderPath = path.join(folderRoot, "teams_logos");
-                            await Promise.all(playerData.map(async (player) => {
+
+                            for (const player of playerData) {
                                 const imageName = sanitizeFileName(path.basename(player.photo));
                                 const newImagePath = path.join(playersFolderPath, `${imageName}`);
                                 await downloadPlayerPhoto(player.photo, newImagePath);
-                            }));
-                            await Promise.all(teamLogoData.map(async (team) => {
+                            }
+
+                            for (const team of teamLogoData) {
                                 if (team.teamLogo) {
                                     const imageName = sanitizeFileName(path.basename(team.teamLogo));
                                     const newImagePath = path.join(teamsLogoFolderPath, `${imageName}`);
                                     await downloadTeamLogo(team.teamLogo, newImagePath);
                                 }
-                            }));
+                            }
                         }
                     } catch (error) {
                         console.error(`Error al obtener datos de ${item.gameLink}:`, error);
-                        // Tomar medidas adicionales en caso de error
-                        // ...
                     }
                 }
-            }));
+            }
         }
     } catch (error) {
         console.error(`Error al leer el archivo: ${filePath}`, error);
-        // Tomar medidas adicionales en caso de error
-        // ...
     }
 };
 
