@@ -156,22 +156,27 @@
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3224120",
+    "number": "",
     "name": "Treinador Principal\r\n                                Luis Manuel Vale Silva"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3233629",
+    "number": "",
     "name": "Treinador Principal\r\n                                Manuel Jose Cunha Fernandes Moura"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3223241",
+    "number": "",
     "name": "1º Delegado\r\n                                Hugo Alexandre Martins Da Cunha"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3037668",
+    "number": "",
     "name": "Treinador Estagiário\r\n                                Henrique Antonio Fonte Parente"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3194639",
+    "number": "",
     "name": "1º Delegado\r\n                                Henrique Manuel Barreiro Rodrigues"
   },
   {
@@ -191,9 +196,9 @@
   },
   {
     "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/1426",
-    "teamHome": "Torre Sc",
-    "score": "\r\n                            6 - 2\r\n                    ",
-    "teamAway": "Torre Sc",
-    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1426"
+    "teamHome": "6 - 2",
+    "score": "Cc \"Os Torreenses\"",
+    "teamAway": "",
+    "teamAwayLogo": ""
   }
 ]

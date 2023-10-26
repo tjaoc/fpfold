@@ -171,22 +171,27 @@
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3174732",
+    "number": "",
     "name": "Treinador Principal\r\n                                Carlos Manuel Ribeiro Costa"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3194669",
+    "number": "",
     "name": "Treinador Principal\r\n                                Leandro Cunha Lourenco"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3153368",
+    "number": "",
     "name": "1º Delegado\r\n                                João Carlos Verde Moreira"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3274832",
+    "number": "",
     "name": "Técnico De Sbv-Dae\r\n                                Marco Antonio Dias Lirio Guerreiro"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3188946",
+    "number": "",
     "name": "1º Delegado\r\n                                José Pedro Branco Rodrigues"
   },
   {
@@ -206,9 +211,9 @@
   },
   {
     "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/1417",
-    "teamHome": "Âncora-Praia Fc",
-    "score": "\r\n                            4 - 2\r\n                    ",
-    "teamAway": "Âncora-Praia Fc",
-    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1417"
+    "teamHome": "4 - 2",
+    "score": "Cd Cerveira",
+    "teamAway": "",
+    "teamAwayLogo": ""
   }
 ]

@@ -171,30 +171,37 @@
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3108401",
+    "number": "",
     "name": "Treinador Principal\r\n                                Daniel Souto Rodrigues"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3107060",
+    "number": "",
     "name": "Treinador Principal\r\n                                Paulo Miguel Joao Pereira"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3153338",
+    "number": "",
     "name": "1º Delegado\r\n                                Ramiro Joel Ribeiro Goncalves"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3108405",
+    "number": "",
     "name": "Técnico De Sbv-Dae\r\n                                Catarina Isabel Baptista Machado"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3146451",
+    "number": "",
     "name": "Treinador Adjunto\r\n                                Duarte Nuno Presa Pereira"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3221800",
+    "number": "",
     "name": "1º Delegado\r\n                                João Miguel Amorim Ribeiro"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3075797",
+    "number": "",
     "name": "Enfermeiro\r\n                                Pedro Antonio Trigo Bordalo Morais"
   },
   {
@@ -214,9 +221,9 @@
   },
   {
     "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/560",
-    "teamHome": "Ad Barroselas \"B\"",
-    "score": "\r\n                            3 - 1\r\n                    ",
-    "teamAway": "Ad Barroselas \"B\"",
-    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/560"
+    "teamHome": "3 - 1",
+    "score": "Sc Vianense \"B\"",
+    "teamAway": "",
+    "teamAwayLogo": ""
   }
 ]

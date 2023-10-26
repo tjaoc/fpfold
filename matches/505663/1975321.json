@@ -191,30 +191,37 @@
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3174059",
+    "number": "",
     "name": "Treinador Principal\r\n                                Rui Pedro Alves Maciel"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3108401",
+    "number": "",
     "name": "Treinador Principal\r\n                                Daniel Souto Rodrigues"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3107189",
+    "number": "",
     "name": "Treinador Adjunto\r\n                                Paulo Cesar Lima Pereira Meneses"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/1950677",
+    "number": "",
     "name": "1º Delegado\r\n                                Pedro Manuel Lima Meneses"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/2971470",
+    "number": "",
     "name": "Treinador Estagiário\r\n                                Joao Carlos Vieira Ferreira"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3104838",
+    "number": "",
     "name": "Fisioterapeuta\r\n                                Sofia Pinto Fernandes"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3153338",
+    "number": "",
     "name": "1º Delegado\r\n                                Ramiro Joel Ribeiro Goncalves"
   },
   {
@@ -234,9 +241,9 @@
   },
   {
     "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/2844",
-    "teamHome": "Ad \"Os Limianos\" \"A\"",
-    "score": "\r\n                            8 - 0\r\n                    ",
-    "teamAway": "Ad \"Os Limianos\" \"A\"",
-    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/2844"
+    "teamHome": "8 - 0",
+    "score": "Ad Barroselas \"B\"",
+    "teamAway": "",
+    "teamAwayLogo": ""
   }
 ]

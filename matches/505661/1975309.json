@@ -156,18 +156,22 @@
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3194669",
+    "number": "",
     "name": "Treinador Principal\r\n                                Leandro Cunha Lourenco"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3157743",
+    "number": "",
     "name": "Treinador Principal\r\n                                Andre Filipe Lomba Xavier"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3188946",
+    "number": "",
     "name": "1º Delegado\r\n                                José Pedro Branco Rodrigues"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3197071",
+    "number": "",
     "name": "Treinador Adjunto\r\n                                Marcio Trindade Laranjeira"
   },
   {
@@ -187,9 +191,9 @@
   },
   {
     "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/398",
-    "teamHome": "Cd Cerveira",
-    "score": "\r\n                            0 - 4\r\n                    ",
-    "teamAway": "Cd Cerveira",
-    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/398"
+    "teamHome": "0 - 4",
+    "score": "Perspectiva Em Jogo Ad \"A\"",
+    "teamAway": "",
+    "teamAwayLogo": ""
   }
 ]

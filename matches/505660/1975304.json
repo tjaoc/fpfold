@@ -166,22 +166,27 @@
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3157743",
+    "number": "",
     "name": "Treinador Principal\r\n                                Andre Filipe Lomba Xavier"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3174652",
+    "number": "",
     "name": "Treinador Principal\r\n                                Carlos Filipe Lopes Ferreira"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3157736",
+    "number": "",
     "name": "Treinador Adjunto\r\n                                Cesar Miguel Castro Oliveira"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3197071",
+    "number": "",
     "name": "Treinador Adjunto\r\n                                Marcio Trindade Laranjeira"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3174675",
+    "number": "",
     "name": "1º Delegado\r\n                                Jaime Manuel Fernandes Pancha"
   },
   {
@@ -201,9 +206,9 @@
   },
   {
     "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/1030",
-    "teamHome": "Perspectiva Em Jogo Ad \"A\"",
-    "score": "\r\n                            0 - 4\r\n                    ",
-    "teamAway": "Perspectiva Em Jogo Ad \"A\"",
-    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1030"
+    "teamHome": "0 - 4",
+    "score": "Arc Guilhadeses",
+    "teamAway": "",
+    "teamAwayLogo": ""
   }
 ]

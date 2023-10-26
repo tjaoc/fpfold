@@ -161,26 +161,32 @@
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3224120",
+    "number": "",
     "name": "Treinador Principal\r\n                                Luis Manuel Vale Silva"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3282543",
+    "number": "",
     "name": "Treinador Principal\r\n                                Dionisio Manuel Brito Pereira Gonçalves"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3223291",
+    "number": "",
     "name": "1º Delegado\r\n                                Manuel Moreira Pereira Rodrigues"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3037668",
+    "number": "",
     "name": "Treinador Estagiário\r\n                                Henrique Antonio Fonte Parente"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3174722",
+    "number": "",
     "name": "1º Delegado\r\n                                Tiago Jose Caldas Calcada"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3102631",
+    "number": "",
     "name": "Enfermeiro\r\n                                Diana Rafaela Varajão Alves"
   },
   {
@@ -200,9 +206,9 @@
   },
   {
     "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/1426",
-    "teamHome": "Torre Sc",
-    "score": "\r\n                            0 - 2\r\n                    ",
-    "teamAway": "Torre Sc",
-    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/1426"
+    "teamHome": "0 - 2",
+    "score": "Adc Correlhã",
+    "teamAway": "",
+    "teamAwayLogo": ""
   }
 ]

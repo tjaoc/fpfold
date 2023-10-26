@@ -101,24 +101,23 @@ const processDetails = async (filePath, folderRoot, matchFolderPath, matchId) =>
                         const html = response.data;
                         const root = parse(html);
                         const gameResumeData = [];
-
                         const players = root.querySelectorAll(".player");
                         for (const player of players) {
-                            const photo = sanitizeUrl(player.querySelector("img").getAttribute("src"));
-                            const number = player.querySelector("strong")?.textContent;
+                            const photoElement = player.querySelector("img");
+                            const numberElement = player.querySelector("strong");
+                            const photo = photoElement ? sanitizeUrl(photoElement.getAttribute("src")) : "";
+                            const number = numberElement ? numberElement.textContent : "";
                             const name = player.textContent.replace(/\d+\s+/, "").trim();
                             gameResumeData.push({ photo, number, name });
                         }
-
                         const teams = root.querySelectorAll(".section-title.game-resume");
-
                         for (const team of teams) {
-                            const teamHomeLogo = sanitizeUrl(team.querySelector("img").getAttribute("src"));
-                            const teamHome = team.querySelector("strong").textContent;
-                            const score = team.querySelector(".text-center").textContent;
-                            const teamAway = team.querySelector("strong:last-child").textContent;
-                            const teamAwayLogo = sanitizeUrl(team.querySelector("img:last-child").getAttribute("src"));
-
+                            const teamHomeLogo = sanitizeUrl(team.querySelector("div:nth-child(1) img").getAttribute("src"));
+                            const teamHome = team.querySelector("div:nth-child(3) strong").textContent;
+                            const score = team.querySelector("div:nth-child(4)").textContent.trim();
+                            const teamText = team.childNodes[0].textContent;
+                            const teamAway = teamText.substring(teamText.lastIndexOf(score) + score.length).trim();
+                            const teamAwayLogo = sanitizeUrl(team.querySelector("div:nth-child(5) img").getAttribute("src"));
                             gameResumeData.push({
                                 teamHomeLogo,
                                 teamHome,

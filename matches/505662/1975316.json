@@ -151,18 +151,22 @@
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3108401",
+    "number": "",
     "name": "Treinador Principal\r\n                                Daniel Souto Rodrigues"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3194669",
+    "number": "",
     "name": "Treinador Principal\r\n                                Leandro Cunha Lourenco"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3153338",
+    "number": "",
     "name": "1º Delegado\r\n                                Ramiro Joel Ribeiro Goncalves"
   },
   {
     "photo": "https://resultados.fpf.pt/Player/Logo/3188946",
+    "number": "",
     "name": "1º Delegado\r\n                                José Pedro Branco Rodrigues"
   },
   {
@@ -182,9 +186,9 @@
   },
   {
     "teamHomeLogo": "https://resultados.fpf.pt/Club/Logo/560",
-    "teamHome": "Ad Barroselas \"B\"",
-    "score": "\r\n                            2 - 1\r\n                    ",
-    "teamAway": "Ad Barroselas \"B\"",
-    "teamAwayLogo": "https://resultados.fpf.pt/Club/Logo/560"
+    "teamHome": "2 - 1",
+    "score": "Cd Cerveira",
+    "teamAway": "",
+    "teamAwayLogo": ""
   }
 ]
