@@ -107,16 +107,6 @@ const processDetails = async (filePath, folderRoot, matchFolderPath, matchId) =>
                             });
                         });
 
-                        const teamsLogoFolderPath = path.join(folderRoot, "teams_logos");
-                        await fs.mkdir(teamsLogoFolderPath, { recursive: true });
-                        for (const team of teamLogoData) {
-                            if (team.teamLogo) {
-                                const imageName = path.basename(team.teamLogo);
-                                const newImagePath = path.join(teamsLogoFolderPath, `${imageName}`);
-                                await downloadTeamLogo(team.teamLogo, newImagePath);
-                            }
-                        }
-
                         if (playerData.length > 0 && teamLogoData.length > 0) {
                             const name = item.gameLink.split("matchId=")[1].split("&")[0];
                             const detailsFilePath = path.join(matchFolderPath, `${name}.json`);
@@ -129,6 +119,15 @@ const processDetails = async (filePath, folderRoot, matchFolderPath, matchId) =>
                                 const imageName = path.basename(player.photo);
                                 const newImagePath = path.join(playersFolderPath, `${imageName}`);
                                 await downloadPlayerPhoto(player.photo, newImagePath);
+                            }
+                            const teamsLogoFolderPath = path.join(folderRoot, "teams_logos");
+                            await fs.mkdir(teamsLogoFolderPath, { recursive: true });
+                            for (const team of teamLogoData) {
+                                if (team.teamLogo) {
+                                    const imageName = path.basename(team.teamLogo);
+                                    const newImagePath = path.join(teamsLogoFolderPath, `${imageName}`);
+                                    await downloadTeamLogo(team.teamLogo, newImagePath);
+                                }
                             }
                         }
                     } catch (error) {
