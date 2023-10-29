@@ -1,36 +1,9 @@
 [
   {
     "gameLink": "",
-    "homeTeam": "Sc Vianense \"B\"",
-    "stadium": "Campo Nº 2 Estadio Dr José Matos",
-    "awayTeam": "Neves Fc \"A\"",
-    "date": "25 fev",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Cc \"Os Torreenses\"",
-    "stadium": "Campo Da Cruz",
-    "awayTeam": "Âncora-Praia Fc",
-    "date": "25 fev",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
     "homeTeam": "Ad Barroselas \"B\"",
     "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
     "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
-    "date": "25 fev",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Cd Cerveira",
-    "stadium": "Estádio Municipal Rafael Pedreira",
-    "awayTeam": "Torre Sc",
     "date": "25 fev",
     "hour": "10:00",
     "score": " - - -"
@@ -46,9 +19,36 @@
   },
   {
     "gameLink": "",
+    "homeTeam": "Cc \"Os Torreenses\"",
+    "stadium": "Campo Da Cruz",
+    "awayTeam": "Âncora-Praia Fc",
+    "date": "25 fev",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
     "homeTeam": "Arc Guilhadeses",
     "stadium": "Campo Padre Arieiro",
     "awayTeam": "Ad \"Os Limianos\" \"A\"",
+    "date": "25 fev",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Sc Vianense \"B\"",
+    "stadium": "Campo Nº 2 Estadio Dr José Matos",
+    "awayTeam": "Neves Fc \"A\"",
+    "date": "25 fev",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Cd Cerveira",
+    "stadium": "Estádio Municipal Rafael Pedreira",
+    "awayTeam": "Torre Sc",
     "date": "25 fev",
     "hour": "10:00",
     "score": " - - -"

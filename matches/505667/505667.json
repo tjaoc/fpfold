@@ -1,24 +1,6 @@
 [
   {
     "gameLink": "",
-    "homeTeam": "Neves Fc \"A\"",
-    "stadium": "Campo Alferes Pinto Ribeiro - N.º 2",
-    "awayTeam": "Sc Vianense \"B\"",
-    "date": "19 nov",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Ad \"Os Limianos\" \"A\"",
-    "stadium": "Campo Cruzeiro",
-    "awayTeam": "Arc Guilhadeses",
-    "date": "19 nov",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
     "homeTeam": "Âncora-Praia Fc",
     "stadium": "Campo Paulino Velho Gomes",
     "awayTeam": "Cc \"Os Torreenses\"",
@@ -28,9 +10,18 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
-    "stadium": "Campo Beira Mar",
-    "awayTeam": "Ad Barroselas \"B\"",
+    "homeTeam": "Torre Sc",
+    "stadium": "Campo Das Monções",
+    "awayTeam": "Cd Cerveira",
+    "date": "19 nov",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Neves Fc \"A\"",
+    "stadium": "Campo Alferes Pinto Ribeiro - N.º 2",
+    "awayTeam": "Sc Vianense \"B\"",
     "date": "19 nov",
     "hour": "10:00",
     "score": " - - -"
@@ -46,9 +37,18 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Torre Sc",
-    "stadium": "Campo Das Monções",
-    "awayTeam": "Cd Cerveira",
+    "homeTeam": "Ad \"Os Limianos\" \"A\"",
+    "stadium": "Campo Cruzeiro",
+    "awayTeam": "Arc Guilhadeses",
+    "date": "19 nov",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
+    "stadium": "Campo Beira Mar",
+    "awayTeam": "Ad Barroselas \"B\"",
     "date": "19 nov",
     "hour": "10:00",
     "score": " - - -"

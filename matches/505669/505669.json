@@ -1,6 +1,24 @@
 [
   {
     "gameLink": "",
+    "homeTeam": "Ad Barroselas \"B\"",
+    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
+    "awayTeam": "Cc \"Os Torreenses\"",
+    "date": "3 dez",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Neves Fc \"A\"",
+    "stadium": "Campo Alferes Pinto Ribeiro - N.º 2",
+    "awayTeam": "Cd Cerveira",
+    "date": "3 dez",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
     "homeTeam": "Âncora-Praia Fc",
     "stadium": "Campo Paulino Velho Gomes",
     "awayTeam": "Sc Vianense \"B\"",
@@ -19,27 +37,9 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Neves Fc \"A\"",
-    "stadium": "Campo Alferes Pinto Ribeiro - N.º 2",
-    "awayTeam": "Cd Cerveira",
-    "date": "3 dez",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
     "homeTeam": "Ad \"Os Limianos\" \"A\"",
     "stadium": "Campo Cruzeiro",
     "awayTeam": "Torre Sc",
-    "date": "3 dez",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Ad Barroselas \"B\"",
-    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
-    "awayTeam": "Cc \"Os Torreenses\"",
     "date": "3 dez",
     "hour": "10:00",
     "score": " - - -"

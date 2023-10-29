@@ -1,18 +1,18 @@
 [
   {
     "gameLink": "",
-    "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
-    "stadium": "Campo Beira Mar",
-    "awayTeam": "Torre Sc",
+    "homeTeam": "Cc \"Os Torreenses\"",
+    "stadium": "Campo Da Cruz",
+    "awayTeam": "Ud Moreira \"A\"",
     "date": "12 nov",
     "hour": "10:00",
     "score": " - - -"
   },
   {
     "gameLink": "",
-    "homeTeam": "Adc Correlhã",
-    "stadium": "Campo Municipal Da Correlhã",
-    "awayTeam": "Neves Fc \"A\"",
+    "homeTeam": "Ad Barroselas \"B\"",
+    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
+    "awayTeam": "Âncora-Praia Fc",
     "date": "12 nov",
     "hour": "10:00",
     "score": " - - -"
@@ -28,15 +28,6 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Cc \"Os Torreenses\"",
-    "stadium": "Campo Da Cruz",
-    "awayTeam": "Ud Moreira \"A\"",
-    "date": "12 nov",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
     "homeTeam": "Arc Guilhadeses",
     "stadium": "Campo Padre Arieiro",
     "awayTeam": "Cd Cerveira",
@@ -46,9 +37,18 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Ad Barroselas \"B\"",
-    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
-    "awayTeam": "Âncora-Praia Fc",
+    "homeTeam": "Adc Correlhã",
+    "stadium": "Campo Municipal Da Correlhã",
+    "awayTeam": "Neves Fc \"A\"",
+    "date": "12 nov",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
+    "stadium": "Campo Beira Mar",
+    "awayTeam": "Torre Sc",
     "date": "12 nov",
     "hour": "10:00",
     "score": " - - -"
