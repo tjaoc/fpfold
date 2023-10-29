@@ -1,27 +1,18 @@
 [
   {
-    "gameLink": "",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975395",
     "homeTeam": "Cd Cerveira",
     "stadium": "Estádio Municipal Rafael Pedreira",
     "awayTeam": "Adc Correlhã",
     "date": "29 out",
-    "hour": "09:00",
-    "score": " - - -"
+    "hour": "",
+    "score": "2 - 5"
   },
   {
     "gameLink": "",
-    "homeTeam": "Arc Guilhadeses",
-    "stadium": "Campo Padre Arieiro",
-    "awayTeam": "Sc Vianense \"B\"",
-    "date": "4 fev",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Torre Sc",
-    "stadium": "Campo Das Monções",
-    "awayTeam": "Âncora-Praia Fc",
+    "homeTeam": "Neves Fc \"A\"",
+    "stadium": "Campo Alferes Pinto Ribeiro - N.º 2",
+    "awayTeam": "Ad Barroselas \"B\"",
     "date": "4 fev",
     "hour": "10:00",
     "score": " - - -"
@@ -37,9 +28,9 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Neves Fc \"A\"",
-    "stadium": "Campo Alferes Pinto Ribeiro - N.º 2",
-    "awayTeam": "Ad Barroselas \"B\"",
+    "homeTeam": "Torre Sc",
+    "stadium": "Campo Das Monções",
+    "awayTeam": "Âncora-Praia Fc",
     "date": "4 fev",
     "hour": "10:00",
     "score": " - - -"
@@ -49,6 +40,15 @@
     "homeTeam": "Ad \"Os Limianos\" \"A\"",
     "stadium": "Campo Cruzeiro",
     "awayTeam": "Cc \"Os Torreenses\"",
+    "date": "4 fev",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Arc Guilhadeses",
+    "stadium": "Campo Padre Arieiro",
+    "awayTeam": "Sc Vianense \"B\"",
     "date": "4 fev",
     "hour": "10:00",
     "score": " - - -"
