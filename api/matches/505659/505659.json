@@ -18,15 +18,6 @@
     "score": "9 - 1"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975296",
-    "homeTeam": "Cd Cerveira",
-    "stadium": "Estádio Municipal Rafael Pedreira",
-    "awayTeam": "Ud Moreira \"A\"",
-    "date": "24 set",
-    "hour": "",
-    "score": "0 - 6"
-  },
-  {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975297",
     "homeTeam": "Arc Guilhadeses",
     "stadium": "Campo Padre Arieiro",
@@ -34,6 +25,15 @@
     "date": "24 set",
     "hour": "",
     "score": "3 - 3"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975296",
+    "homeTeam": "Cd Cerveira",
+    "stadium": "Estádio Municipal Rafael Pedreira",
+    "awayTeam": "Ud Moreira \"A\"",
+    "date": "24 set",
+    "hour": "",
+    "score": "0 - 6"
   },
   {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975298",

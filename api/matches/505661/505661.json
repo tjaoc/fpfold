@@ -18,24 +18,6 @@
     "score": "3 - 2"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975308",
-    "homeTeam": "Ad \"Os Limianos\" \"A\"",
-    "stadium": "Campo Cruzeiro",
-    "awayTeam": "Âncora-Praia Fc",
-    "date": "8 out",
-    "hour": "",
-    "score": "15 - 0"
-  },
-  {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975311",
-    "homeTeam": "Sc Vianense \"B\"",
-    "stadium": "Estádio Municipal Manuela Machado",
-    "awayTeam": "Cc \"Os Torreenses\"",
-    "date": "8 out",
-    "hour": "",
-    "score": "3 - 1"
-  },
-  {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975312",
     "homeTeam": "Torre Sc",
     "stadium": "Campo Das Monções",
@@ -52,5 +34,23 @@
     "date": "8 out",
     "hour": "",
     "score": "6 - 0"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975311",
+    "homeTeam": "Sc Vianense \"B\"",
+    "stadium": "Estádio Municipal Manuela Machado",
+    "awayTeam": "Cc \"Os Torreenses\"",
+    "date": "8 out",
+    "hour": "",
+    "score": "3 - 1"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975308",
+    "homeTeam": "Ad \"Os Limianos\" \"A\"",
+    "stadium": "Campo Cruzeiro",
+    "awayTeam": "Âncora-Praia Fc",
+    "date": "8 out",
+    "hour": "",
+    "score": "15 - 0"
   }
 ]

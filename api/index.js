@@ -1,6 +1,7 @@
+const express = require('express');
 const http = require('http');
 const url = require('url');
-
+const app = express();
 const resumes = require('./resumes.js');
 const classifications = require('./classifications.js');
 const detailsMatches = require('./details_matches.js');
@@ -57,4 +58,10 @@ const server = http.createServer((req, res) => {
 const port = 80;
 server.listen(port, () => {
     console.log(`Servidor à escuta no porto ${port}`);
+});
+
+app.use(function (req, res, next) {
+    res.header("Access-Control-Allow-Origin", "*");
+    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+    next();
 });

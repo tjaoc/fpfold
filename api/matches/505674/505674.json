@@ -1,18 +1,9 @@
 [
   {
     "gameLink": "",
-    "homeTeam": "Âncora-Praia Fc",
-    "stadium": "Campo Paulino Velho Gomes",
-    "awayTeam": "Ud Moreira \"A\"",
-    "date": "28 jan",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Ad Barroselas \"B\"",
-    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
-    "awayTeam": "Ad \"Os Limianos\" \"A\"",
+    "homeTeam": "Adc Correlhã",
+    "stadium": "Campo Municipal Da Correlhã",
+    "awayTeam": "Arc Guilhadeses",
     "date": "28 jan",
     "hour": "10:00",
     "score": " - - -"
@@ -28,6 +19,15 @@
   },
   {
     "gameLink": "",
+    "homeTeam": "Âncora-Praia Fc",
+    "stadium": "Campo Paulino Velho Gomes",
+    "awayTeam": "Ud Moreira \"A\"",
+    "date": "28 jan",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
     "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
     "stadium": "Campo Beira Mar",
     "awayTeam": "Neves Fc \"A\"",
@@ -37,18 +37,18 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Sc Vianense \"B\"",
-    "stadium": "Campo Nº 2 Estadio Dr José Matos",
-    "awayTeam": "Torre Sc",
+    "homeTeam": "Ad Barroselas \"B\"",
+    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
+    "awayTeam": "Ad \"Os Limianos\" \"A\"",
     "date": "28 jan",
     "hour": "10:00",
     "score": " - - -"
   },
   {
     "gameLink": "",
-    "homeTeam": "Adc Correlhã",
-    "stadium": "Campo Municipal Da Correlhã",
-    "awayTeam": "Arc Guilhadeses",
+    "homeTeam": "Sc Vianense \"B\"",
+    "stadium": "Campo Nº 2 Estadio Dr José Matos",
+    "awayTeam": "Torre Sc",
     "date": "28 jan",
     "hour": "10:00",
     "score": " - - -"

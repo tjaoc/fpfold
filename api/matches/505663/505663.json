@@ -9,33 +9,6 @@
     "score": "1 - 2"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975319",
-    "homeTeam": "Ud Moreira \"A\"",
-    "stadium": "Campo Tomada",
-    "awayTeam": "Âncora-Praia Fc",
-    "date": "22 out",
-    "hour": "",
-    "score": "4 - 3"
-  },
-  {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975322",
-    "homeTeam": "Cd Cerveira",
-    "stadium": "Estádio Municipal Rafael Pedreira",
-    "awayTeam": "Cc \"Os Torreenses\"",
-    "date": "22 out",
-    "hour": "",
-    "score": "1 - 0"
-  },
-  {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975324",
-    "homeTeam": "Torre Sc",
-    "stadium": "Campo Das Monções",
-    "awayTeam": "Sc Vianense \"B\"",
-    "date": "22 out",
-    "hour": "",
-    "score": "1 - 3"
-  },
-  {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975323",
     "homeTeam": "Arc Guilhadeses",
     "stadium": "Campo Padre Arieiro",
@@ -52,5 +25,32 @@
     "date": "22 out",
     "hour": "",
     "score": "8 - 0"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975322",
+    "homeTeam": "Cd Cerveira",
+    "stadium": "Estádio Municipal Rafael Pedreira",
+    "awayTeam": "Cc \"Os Torreenses\"",
+    "date": "22 out",
+    "hour": "",
+    "score": "1 - 0"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975319",
+    "homeTeam": "Ud Moreira \"A\"",
+    "stadium": "Campo Tomada",
+    "awayTeam": "Âncora-Praia Fc",
+    "date": "22 out",
+    "hour": "",
+    "score": "4 - 3"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975324",
+    "homeTeam": "Torre Sc",
+    "stadium": "Campo Das Monções",
+    "awayTeam": "Sc Vianense \"B\"",
+    "date": "22 out",
+    "hour": "",
+    "score": "1 - 3"
   }
 ]
