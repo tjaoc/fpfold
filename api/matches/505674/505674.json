@@ -1,27 +1,9 @@
 [
   {
     "gameLink": "",
-    "homeTeam": "Adc Correlhã",
-    "stadium": "Campo Municipal Da Correlhã",
-    "awayTeam": "Arc Guilhadeses",
-    "date": "28 jan",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
     "homeTeam": "Cc \"Os Torreenses\"",
     "stadium": "Campo Da Cruz",
     "awayTeam": "Cd Cerveira",
-    "date": "28 jan",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Âncora-Praia Fc",
-    "stadium": "Campo Paulino Velho Gomes",
-    "awayTeam": "Ud Moreira \"A\"",
     "date": "28 jan",
     "hour": "10:00",
     "score": " - - -"
@@ -40,6 +22,24 @@
     "homeTeam": "Ad Barroselas \"B\"",
     "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
     "awayTeam": "Ad \"Os Limianos\" \"A\"",
+    "date": "28 jan",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Adc Correlhã",
+    "stadium": "Campo Municipal Da Correlhã",
+    "awayTeam": "Arc Guilhadeses",
+    "date": "28 jan",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Âncora-Praia Fc",
+    "stadium": "Campo Paulino Velho Gomes",
+    "awayTeam": "Ud Moreira \"A\"",
     "date": "28 jan",
     "hour": "10:00",
     "score": " - - -"

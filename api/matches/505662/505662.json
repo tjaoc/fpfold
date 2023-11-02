@@ -1,14 +1,5 @@
 [
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975317",
-    "homeTeam": "Cc \"Os Torreenses\"",
-    "stadium": "Campo Da Cruz",
-    "awayTeam": "Arc Guilhadeses",
-    "date": "15 out",
-    "hour": "",
-    "score": "0 - 9"
-  },
-  {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975316",
     "homeTeam": "Ad Barroselas \"B\"",
     "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
@@ -18,19 +9,19 @@
     "score": "2 - 1"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975314",
-    "homeTeam": "Âncora-Praia Fc",
-    "stadium": "Campo Paulino Velho Gomes",
-    "awayTeam": "Neves Fc \"A\"",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975318",
+    "homeTeam": "Adc Correlhã",
+    "stadium": "Campos Das Lagoas",
+    "awayTeam": "Sc Vianense \"B\"",
     "date": "15 out",
     "hour": "",
     "score": "4 - 1"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975318",
-    "homeTeam": "Adc Correlhã",
-    "stadium": "Campos Das Lagoas",
-    "awayTeam": "Sc Vianense \"B\"",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975314",
+    "homeTeam": "Âncora-Praia Fc",
+    "stadium": "Campo Paulino Velho Gomes",
+    "awayTeam": "Neves Fc \"A\"",
     "date": "15 out",
     "hour": "",
     "score": "4 - 1"
@@ -43,6 +34,15 @@
     "date": "15 out",
     "hour": "",
     "score": "1 - 4"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975317",
+    "homeTeam": "Cc \"Os Torreenses\"",
+    "stadium": "Campo Da Cruz",
+    "awayTeam": "Arc Guilhadeses",
+    "date": "15 out",
+    "hour": "",
+    "score": "0 - 9"
   },
   {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975313",

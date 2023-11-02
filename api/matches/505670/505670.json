@@ -10,6 +10,15 @@
   },
   {
     "gameLink": "",
+    "homeTeam": "Ud Moreira \"A\"",
+    "stadium": "Campo Tomada",
+    "awayTeam": "Cd Cerveira",
+    "date": "10 dez",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
     "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
     "stadium": "Campo Nº 2 Estadio Dr José Matos",
     "awayTeam": "Sc Vianense \"B\"",
@@ -28,15 +37,6 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Cc \"Os Torreenses\"",
-    "stadium": "Campo Da Cruz",
-    "awayTeam": "Torre Sc",
-    "date": "10 dez",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
     "homeTeam": "Âncora-Praia Fc",
     "stadium": "Campo Paulino Velho Gomes",
     "awayTeam": "Arc Guilhadeses",
@@ -46,9 +46,9 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Ud Moreira \"A\"",
-    "stadium": "Campo Tomada",
-    "awayTeam": "Cd Cerveira",
+    "homeTeam": "Cc \"Os Torreenses\"",
+    "stadium": "Campo Da Cruz",
+    "awayTeam": "Torre Sc",
     "date": "10 dez",
     "hour": "10:00",
     "score": " - - -"

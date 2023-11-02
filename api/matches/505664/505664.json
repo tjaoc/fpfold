@@ -1,14 +1,5 @@
 [
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975326",
-    "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
-    "stadium": "Campo Beira Mar",
-    "awayTeam": "Ud Moreira \"A\"",
-    "date": "29 out",
-    "hour": "",
-    "score": "2 - 1"
-  },
-  {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975327",
     "homeTeam": "Ad Barroselas \"B\"",
     "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
@@ -27,15 +18,6 @@
     "score": "0 - 7"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975325",
-    "homeTeam": "Âncora-Praia Fc",
-    "stadium": "Campo Paulino Velho Gomes",
-    "awayTeam": "Torre Sc",
-    "date": "29 out",
-    "hour": "",
-    "score": "2 - 3"
-  },
-  {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975330",
     "homeTeam": "Sc Vianense \"B\"",
     "stadium": "Campo Visconde Barrosa",
@@ -43,6 +25,24 @@
     "date": "29 out",
     "hour": "",
     "score": "0 - 5"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975326",
+    "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
+    "stadium": "Campo Beira Mar",
+    "awayTeam": "Ud Moreira \"A\"",
+    "date": "29 out",
+    "hour": "",
+    "score": "2 - 1"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975325",
+    "homeTeam": "Âncora-Praia Fc",
+    "stadium": "Campo Paulino Velho Gomes",
+    "awayTeam": "Torre Sc",
+    "date": "29 out",
+    "hour": "",
+    "score": "2 - 3"
   },
   {
     "gameLink": "",

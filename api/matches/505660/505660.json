@@ -9,15 +9,6 @@
     "score": "0 - 6"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975301",
-    "homeTeam": "Neves Fc \"A\"",
-    "stadium": "Campo Das Monções",
-    "awayTeam": "Torre Sc",
-    "date": "1 out",
-    "hour": "",
-    "score": "5 - 1"
-  },
-  {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975304",
     "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
     "stadium": "Campo Beira Mar",
@@ -27,13 +18,13 @@
     "score": "0 - 4"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975303",
-    "homeTeam": "Âncora-Praia Fc",
-    "stadium": "Campo Paulino Velho Gomes",
-    "awayTeam": "Cd Cerveira",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975301",
+    "homeTeam": "Neves Fc \"A\"",
+    "stadium": "Campo Das Monções",
+    "awayTeam": "Torre Sc",
     "date": "1 out",
     "hour": "",
-    "score": "4 - 2"
+    "score": "5 - 1"
   },
   {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975306",
@@ -43,6 +34,15 @@
     "date": "1 out",
     "hour": "",
     "score": "1 - 2"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975303",
+    "homeTeam": "Âncora-Praia Fc",
+    "stadium": "Campo Paulino Velho Gomes",
+    "awayTeam": "Cd Cerveira",
+    "date": "1 out",
+    "hour": "",
+    "score": "4 - 2"
   },
   {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975305",

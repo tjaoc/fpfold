@@ -10,18 +10,9 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Neves Fc \"A\"",
-    "stadium": "Campo Alferes Pinto Ribeiro - N.º 2",
-    "awayTeam": "Ad Barroselas \"B\"",
-    "date": "4 fev",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Ad \"Os Limianos\" \"A\"",
-    "stadium": "Campo Cruzeiro",
-    "awayTeam": "Cc \"Os Torreenses\"",
+    "homeTeam": "Arc Guilhadeses",
+    "stadium": "Campo Padre Arieiro",
+    "awayTeam": "Sc Vianense \"B\"",
     "date": "4 fev",
     "hour": "10:00",
     "score": " - - -"
@@ -37,9 +28,18 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Arc Guilhadeses",
-    "stadium": "Campo Padre Arieiro",
-    "awayTeam": "Sc Vianense \"B\"",
+    "homeTeam": "Neves Fc \"A\"",
+    "stadium": "Campo Alferes Pinto Ribeiro - N.º 2",
+    "awayTeam": "Ad Barroselas \"B\"",
+    "date": "4 fev",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
+    "homeTeam": "Ad \"Os Limianos\" \"A\"",
+    "stadium": "Campo Cruzeiro",
+    "awayTeam": "Cc \"Os Torreenses\"",
     "date": "4 fev",
     "hour": "10:00",
     "score": " - - -"
