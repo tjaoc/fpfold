@@ -9,15 +9,6 @@
     "score": "6 - 2"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975295",
-    "homeTeam": "Ad \"Os Limianos\" \"A\"",
-    "stadium": "Campo Cruzeiro",
-    "awayTeam": "Neves Fc \"A\"",
-    "date": "24 set",
-    "hour": "",
-    "score": "9 - 1"
-  },
-  {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975297",
     "homeTeam": "Arc Guilhadeses",
     "stadium": "Campo Padre Arieiro",
@@ -34,6 +25,15 @@
     "date": "24 set",
     "hour": "",
     "score": "0 - 6"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975295",
+    "homeTeam": "Ad \"Os Limianos\" \"A\"",
+    "stadium": "Campo Cruzeiro",
+    "awayTeam": "Neves Fc \"A\"",
+    "date": "24 set",
+    "hour": "",
+    "score": "9 - 1"
   },
   {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975298",

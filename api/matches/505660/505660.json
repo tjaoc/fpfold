@@ -9,6 +9,15 @@
     "score": "0 - 6"
   },
   {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975306",
+    "homeTeam": "Cc \"Os Torreenses\"",
+    "stadium": "Campo Da Cruz",
+    "awayTeam": "Adc Correlhã",
+    "date": "1 out",
+    "hour": "",
+    "score": "1 - 2"
+  },
+  {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975304",
     "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
     "stadium": "Campo Beira Mar",
@@ -16,6 +25,15 @@
     "date": "1 out",
     "hour": "",
     "score": "0 - 4"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975305",
+    "homeTeam": "Ad Barroselas \"B\"",
+    "stadium": "Complexo Desportivo Barroselas - Campo 2",
+    "awayTeam": "Sc Vianense \"B\"",
+    "date": "1 out",
+    "hour": "",
+    "score": "3 - 1"
   },
   {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975301",
@@ -27,15 +45,6 @@
     "score": "5 - 1"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975306",
-    "homeTeam": "Cc \"Os Torreenses\"",
-    "stadium": "Campo Da Cruz",
-    "awayTeam": "Adc Correlhã",
-    "date": "1 out",
-    "hour": "",
-    "score": "1 - 2"
-  },
-  {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975303",
     "homeTeam": "Âncora-Praia Fc",
     "stadium": "Campo Paulino Velho Gomes",
@@ -43,14 +52,5 @@
     "date": "1 out",
     "hour": "",
     "score": "4 - 2"
-  },
-  {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975305",
-    "homeTeam": "Ad Barroselas \"B\"",
-    "stadium": "Complexo Desportivo Barroselas - Campo 2",
-    "awayTeam": "Sc Vianense \"B\"",
-    "date": "1 out",
-    "hour": "",
-    "score": "3 - 1"
   }
 ]

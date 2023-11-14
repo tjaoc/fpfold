@@ -1,56 +1,56 @@
 [
   {
-    "gameLink": "",
-    "homeTeam": "Arc Guilhadeses",
-    "stadium": "Campo Padre Arieiro",
-    "awayTeam": "Cd Cerveira",
-    "date": "12 nov",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Adc Correlhã",
-    "stadium": "Campo Municipal Da Correlhã",
-    "awayTeam": "Neves Fc \"A\"",
-    "date": "12 nov",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Ad Barroselas \"B\"",
-    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
-    "awayTeam": "Âncora-Praia Fc",
-    "date": "12 nov",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975341",
     "homeTeam": "Sc Vianense \"B\"",
     "stadium": "Campo Visconde Barrosa",
     "awayTeam": "Ad \"Os Limianos\" \"A\"",
     "date": "12 nov",
-    "hour": "10:00",
-    "score": " - - -"
+    "hour": "",
+    "score": "0 - 5"
   },
   {
-    "gameLink": "",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975338",
+    "homeTeam": "Ad Barroselas \"B\"",
+    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
+    "awayTeam": "Âncora-Praia Fc",
+    "date": "12 nov",
+    "hour": "",
+    "score": "1 - 1"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975339",
     "homeTeam": "Cc \"Os Torreenses\"",
     "stadium": "Campo Da Cruz",
     "awayTeam": "Ud Moreira \"A\"",
     "date": "12 nov",
-    "hour": "10:00",
-    "score": " - - -"
+    "hour": "",
+    "score": "0 - 6"
   },
   {
-    "gameLink": "",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975340",
+    "homeTeam": "Adc Correlhã",
+    "stadium": "Campos Das Lagoas",
+    "awayTeam": "Neves Fc \"A\"",
+    "date": "12 nov",
+    "hour": "",
+    "score": "1 - 3"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975337",
     "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
     "stadium": "Campo Beira Mar",
     "awayTeam": "Torre Sc",
     "date": "12 nov",
-    "hour": "10:00",
-    "score": " - - -"
+    "hour": "",
+    "score": "3 - 2"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975342",
+    "homeTeam": "Arc Guilhadeses",
+    "stadium": "Campo Padre Arieiro",
+    "awayTeam": "Cd Cerveira",
+    "date": "12 nov",
+    "hour": "",
+    "score": "9 - 0"
   }
 ]

@@ -1,14 +1,5 @@
 [
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975323",
-    "homeTeam": "Arc Guilhadeses",
-    "stadium": "Campo Padre Arieiro",
-    "awayTeam": "Adc Correlhã",
-    "date": "22 out",
-    "hour": "",
-    "score": "1 - 0"
-  },
-  {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975324",
     "homeTeam": "Torre Sc",
     "stadium": "Campo Das Monções",
@@ -16,24 +7,6 @@
     "date": "22 out",
     "hour": "",
     "score": "1 - 3"
-  },
-  {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975319",
-    "homeTeam": "Ud Moreira \"A\"",
-    "stadium": "Campo Tomada",
-    "awayTeam": "Âncora-Praia Fc",
-    "date": "22 out",
-    "hour": "",
-    "score": "4 - 3"
-  },
-  {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975321",
-    "homeTeam": "Ad \"Os Limianos\" \"A\"",
-    "stadium": "Campo Cruzeiro",
-    "awayTeam": "Ad Barroselas \"B\"",
-    "date": "22 out",
-    "hour": "",
-    "score": "8 - 0"
   },
   {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975322",
@@ -45,6 +18,15 @@
     "score": "1 - 0"
   },
   {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975319",
+    "homeTeam": "Ud Moreira \"A\"",
+    "stadium": "Campo Tomada",
+    "awayTeam": "Âncora-Praia Fc",
+    "date": "22 out",
+    "hour": "",
+    "score": "4 - 3"
+  },
+  {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975320",
     "homeTeam": "Neves Fc \"A\"",
     "stadium": "Campo Alferes Pinto Ribeiro - N.º 2",
@@ -52,5 +34,23 @@
     "date": "22 out",
     "hour": "",
     "score": "1 - 2"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975321",
+    "homeTeam": "Ad \"Os Limianos\" \"A\"",
+    "stadium": "Campo Cruzeiro",
+    "awayTeam": "Ad Barroselas \"B\"",
+    "date": "22 out",
+    "hour": "",
+    "score": "8 - 0"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975323",
+    "homeTeam": "Arc Guilhadeses",
+    "stadium": "Campo Padre Arieiro",
+    "awayTeam": "Adc Correlhã",
+    "date": "22 out",
+    "hour": "",
+    "score": "1 - 0"
   }
 ]

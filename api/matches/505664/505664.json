@@ -1,14 +1,5 @@
 [
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975327",
-    "homeTeam": "Ad Barroselas \"B\"",
-    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
-    "awayTeam": "Neves Fc \"A\"",
-    "date": "29 out",
-    "hour": "",
-    "score": "1 - 2"
-  },
-  {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975328",
     "homeTeam": "Cc \"Os Torreenses\"",
     "stadium": "Campo Da Cruz",
@@ -16,6 +7,15 @@
     "date": "29 out",
     "hour": "",
     "score": "0 - 7"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975326",
+    "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
+    "stadium": "Campo Beira Mar",
+    "awayTeam": "Ud Moreira \"A\"",
+    "date": "29 out",
+    "hour": "",
+    "score": "2 - 1"
   },
   {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975330",
@@ -27,13 +27,13 @@
     "score": "0 - 5"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975326",
-    "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
-    "stadium": "Campo Beira Mar",
-    "awayTeam": "Ud Moreira \"A\"",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975327",
+    "homeTeam": "Ad Barroselas \"B\"",
+    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
+    "awayTeam": "Neves Fc \"A\"",
     "date": "29 out",
     "hour": "",
-    "score": "2 - 1"
+    "score": "1 - 2"
   },
   {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975325",
