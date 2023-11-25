@@ -1,56 +1,56 @@
 [
   {
-    "gameLink": "",
-    "homeTeam": "Neves Fc \"A\"",
-    "stadium": "Campo Alferes Pinto Ribeiro - N.º 2",
-    "awayTeam": "Sc Vianense \"B\"",
-    "date": "19 nov",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975348",
     "homeTeam": "Torre Sc",
     "stadium": "Campo Das Monções",
     "awayTeam": "Cd Cerveira",
     "date": "19 nov",
-    "hour": "10:00",
-    "score": " - - -"
+    "hour": "",
+    "score": "6 - 2"
   },
   {
-    "gameLink": "",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975344",
     "homeTeam": "Âncora-Praia Fc",
     "stadium": "Campo Paulino Velho Gomes",
     "awayTeam": "Cc \"Os Torreenses\"",
     "date": "19 nov",
-    "hour": "10:00",
-    "score": " - - -"
+    "hour": "",
+    "score": "2 - 1"
   },
   {
-    "gameLink": "",
-    "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
-    "stadium": "Campo Beira Mar",
-    "awayTeam": "Ad Barroselas \"B\"",
-    "date": "19 nov",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Ud Moreira \"A\"",
-    "stadium": "Campo Tomada",
-    "awayTeam": "Adc Correlhã",
-    "date": "19 nov",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975347",
     "homeTeam": "Ad \"Os Limianos\" \"A\"",
     "stadium": "Campo Cruzeiro",
     "awayTeam": "Arc Guilhadeses",
     "date": "19 nov",
-    "hour": "10:00",
-    "score": " - - -"
+    "hour": "",
+    "score": "2 - 1"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975345",
+    "homeTeam": "Ud Moreira \"A\"",
+    "stadium": "Campo Tomada",
+    "awayTeam": "Adc Correlhã",
+    "date": "19 nov",
+    "hour": "",
+    "score": "3 - 1"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975343",
+    "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
+    "stadium": "Campo Beira Mar",
+    "awayTeam": "Ad Barroselas \"B\"",
+    "date": "19 nov",
+    "hour": "",
+    "score": "1 - 0"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975346",
+    "homeTeam": "Neves Fc \"A\"",
+    "stadium": "Campo Alferes Pinto Ribeiro - N.º 2",
+    "awayTeam": "Sc Vianense \"B\"",
+    "date": "19 nov",
+    "hour": "",
+    "score": "9 - 1"
   }
 ]

@@ -9,15 +9,6 @@
     "score": "0 - 5"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975338",
-    "homeTeam": "Ad Barroselas \"B\"",
-    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
-    "awayTeam": "Âncora-Praia Fc",
-    "date": "12 nov",
-    "hour": "",
-    "score": "1 - 1"
-  },
-  {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975339",
     "homeTeam": "Cc \"Os Torreenses\"",
     "stadium": "Campo Da Cruz",
@@ -34,6 +25,15 @@
     "date": "12 nov",
     "hour": "",
     "score": "1 - 3"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975338",
+    "homeTeam": "Ad Barroselas \"B\"",
+    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
+    "awayTeam": "Âncora-Praia Fc",
+    "date": "12 nov",
+    "hour": "",
+    "score": "1 - 1"
   },
   {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975337",

@@ -9,13 +9,13 @@
     "score": "3 - 1"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975308",
-    "homeTeam": "Ad \"Os Limianos\" \"A\"",
-    "stadium": "Campo Cruzeiro",
-    "awayTeam": "Âncora-Praia Fc",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975309",
+    "homeTeam": "Cd Cerveira",
+    "stadium": "Estádio Municipal Rafael Pedreira",
+    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
     "date": "8 out",
     "hour": "",
-    "score": "15 - 0"
+    "score": "0 - 4"
   },
   {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975307",
@@ -27,13 +27,13 @@
     "score": "3 - 2"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975309",
-    "homeTeam": "Cd Cerveira",
-    "stadium": "Estádio Municipal Rafael Pedreira",
-    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975312",
+    "homeTeam": "Torre Sc",
+    "stadium": "Campo Das Monções",
+    "awayTeam": "Adc Correlhã",
     "date": "8 out",
     "hour": "",
-    "score": "0 - 4"
+    "score": "0 - 2"
   },
   {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975310",
@@ -45,12 +45,12 @@
     "score": "6 - 0"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975312",
-    "homeTeam": "Torre Sc",
-    "stadium": "Campo Das Monções",
-    "awayTeam": "Adc Correlhã",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975308",
+    "homeTeam": "Ad \"Os Limianos\" \"A\"",
+    "stadium": "Campo Cruzeiro",
+    "awayTeam": "Âncora-Praia Fc",
     "date": "8 out",
     "hour": "",
-    "score": "0 - 2"
+    "score": "15 - 0"
   }
 ]

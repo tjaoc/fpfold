@@ -18,15 +18,6 @@
     "score": "1 - 2"
   },
   {
-    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975304",
-    "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
-    "stadium": "Campo Beira Mar",
-    "awayTeam": "Arc Guilhadeses",
-    "date": "1 out",
-    "hour": "",
-    "score": "0 - 4"
-  },
-  {
     "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975305",
     "homeTeam": "Ad Barroselas \"B\"",
     "stadium": "Complexo Desportivo Barroselas - Campo 2",
@@ -52,5 +43,14 @@
     "date": "1 out",
     "hour": "",
     "score": "4 - 2"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975304",
+    "homeTeam": "Perspectiva Em Jogo Ad \"A\"",
+    "stadium": "Campo Beira Mar",
+    "awayTeam": "Arc Guilhadeses",
+    "date": "1 out",
+    "hour": "",
+    "score": "0 - 4"
   }
 ]

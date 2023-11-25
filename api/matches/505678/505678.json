@@ -10,6 +10,15 @@
   },
   {
     "gameLink": "",
+    "homeTeam": "Ad Barroselas \"B\"",
+    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
+    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
+    "date": "25 fev",
+    "hour": "10:00",
+    "score": " - - -"
+  },
+  {
+    "gameLink": "",
     "homeTeam": "Arc Guilhadeses",
     "stadium": "Campo Padre Arieiro",
     "awayTeam": "Ad \"Os Limianos\" \"A\"",
@@ -19,27 +28,9 @@
   },
   {
     "gameLink": "",
-    "homeTeam": "Cc \"Os Torreenses\"",
-    "stadium": "Campo Da Cruz",
-    "awayTeam": "Âncora-Praia Fc",
-    "date": "25 fev",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
     "homeTeam": "Adc Correlhã",
     "stadium": "Campo Municipal Da Correlhã",
     "awayTeam": "Ud Moreira \"A\"",
-    "date": "25 fev",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
-    "homeTeam": "Ad Barroselas \"B\"",
-    "stadium": "Complexo Desp Barroselas - Campo Nº. 1",
-    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
     "date": "25 fev",
     "hour": "10:00",
     "score": " - - -"
