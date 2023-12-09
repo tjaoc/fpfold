@@ -1,56 +1,47 @@
 [
   {
-    "gameLink": "",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975352",
     "homeTeam": "Sc Vianense \"B\"",
-    "stadium": "Campo Nº 2 Estadio Dr José Matos",
+    "stadium": "Campo 9 Julho",
     "awayTeam": "Ud Moreira \"A\"",
     "date": "26 nov",
-    "hour": "10:00",
-    "score": " - - -"
+    "hour": "",
+    "score": "1 - 5"
   },
   {
-    "gameLink": "",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975354",
     "homeTeam": "Cd Cerveira",
     "stadium": "Estádio Municipal Rafael Pedreira",
     "awayTeam": "Ad \"Os Limianos\" \"A\"",
     "date": "26 nov",
-    "hour": "10:00",
-    "score": " - - -"
+    "hour": "",
+    "score": "0 - 6"
   },
   {
-    "gameLink": "",
-    "homeTeam": "Cc \"Os Torreenses\"",
-    "stadium": "Campo Da Cruz",
-    "awayTeam": "Perspectiva Em Jogo Ad \"A\"",
-    "date": "26 nov",
-    "hour": "10:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975353",
     "homeTeam": "Arc Guilhadeses",
     "stadium": "Campo Padre Arieiro",
     "awayTeam": "Neves Fc \"A\"",
     "date": "26 nov",
-    "hour": "10:00",
-    "score": " - - -"
+    "hour": "",
+    "score": "5 - 1"
   },
   {
-    "gameLink": "",
-    "homeTeam": "Adc Correlhã",
-    "stadium": "Campo Municipal Da Correlhã",
-    "awayTeam": "Âncora-Praia Fc",
-    "date": "26 nov",
-    "hour": "11:00",
-    "score": " - - -"
-  },
-  {
-    "gameLink": "",
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975349",
     "homeTeam": "Torre Sc",
     "stadium": "Campo Das Monções",
     "awayTeam": "Ad Barroselas \"B\"",
     "date": "26 nov",
-    "hour": "11:00",
-    "score": " - - -"
+    "hour": "",
+    "score": "3 - 4"
+  },
+  {
+    "gameLink": "https://resultados.fpf.pt/Match/GetMatchInformation?matchId=1975351",
+    "homeTeam": "Adc Correlhã",
+    "stadium": "Campos Das Lagoas",
+    "awayTeam": "Âncora-Praia Fc",
+    "date": "26 nov",
+    "hour": "",
+    "score": "3 - 2"
   }
 ]
